@@ -1,115 +1,115 @@
 {
   "ETC3SUSDT": {
     "symbol": "ETC3SUSDT",
-    "netValue": "0.400748"
+    "netValue": "0.404224"
   },
   "OP3LUSDT": {
     "symbol": "OP3LUSDT",
-    "netValue": "0.210332"
+    "netValue": "0.215631"
   },
   "BTS3LUSDT": {
     "symbol": "BTS3LUSDT",
-    "netValue": "0.8848"
+    "netValue": "0.902496"
   },
   "BONE3LUSDT": {
     "symbol": "BONE3LUSDT",
-    "netValue": "0.442109"
+    "netValue": "0.434776"
   },
   "ICX3LUSDT": {
     "symbol": "ICX3LUSDT",
-    "netValue": "0.15701"
+    "netValue": "0.15652"
   },
   "ALPINE3LUSDT": {
     "symbol": "ALPINE3LUSDT",
-    "netValue": "0.345067"
+    "netValue": "0.344459"
   },
   "REN3LUSDT": {
     "symbol": "REN3LUSDT",
-    "netValue": "0.154048"
+    "netValue": "0.154705"
   },
   "ETC3LUSDT": {
     "symbol": "ETC3LUSDT",
-    "netValue": "0.1754"
+    "netValue": "0.17396"
   },
   "ARPA3SUSDT": {
     "symbol": "ARPA3SUSDT",
-    "netValue": "0.082431"
+    "netValue": "0.082654"
   },
   "MANA3LUSDT": {
     "symbol": "MANA3LUSDT",
-    "netValue": "1.33569"
+    "netValue": "1.322431"
   },
   "AXS3SUSDT": {
     "symbol": "AXS3SUSDT",
-    "netValue": "0.070537"
+    "netValue": "0.070777"
   },
   "DOT5LUSDT": {
     "symbol": "DOT5LUSDT",
-    "netValue": "0.166391"
+    "netValue": "0.164686"
   },
   "FLOW3SUSDT": {
     "symbol": "FLOW3SUSDT",
-    "netValue": "0.542148"
+    "netValue": "0.543688"
   },
   "RAY3LUSDT": {
     "symbol": "RAY3LUSDT",
-    "netValue": "0.399615"
+    "netValue": "0.410584"
   },
   "CSPR3LUSDT": {
     "symbol": "CSPR3LUSDT",
-    "netValue": "1.44443"
+    "netValue": "1.437975"
   },
   "CSPR3SUSDT": {
     "symbol": "CSPR3SUSDT",
-    "netValue": "0.38488"
+    "netValue": "0.386916"
   },
   "WAVES3LUSDT": {
     "symbol": "WAVES3LUSDT",
-    "netValue": "0.312574"
+    "netValue": "0.310716"
   },
   "SAND3LUSDT": {
     "symbol": "SAND3LUSDT",
-    "netValue": "0.486031"
+    "netValue": "0.479592"
   },
   "UNFI3SUSDT": {
     "symbol": "UNFI3SUSDT",
-    "netValue": "0.211327"
+    "netValue": "0.212806"
   },
   "RUNE3LUSDT": {
     "symbol": "RUNE3LUSDT",
-    "netValue": "0.348235"
+    "netValue": "0.347036"
   },
   "BTC4SUSDT": {
     "symbol": "BTC4SUSDT",
-    "netValue": "0.120825"
+    "netValue": "0.122122"
   },
   "OP3SUSDT": {
     "symbol": "OP3SUSDT",
-    "netValue": "0.010276"
+    "netValue": "0.010033"
   },
   "EOS3SUSDT": {
     "symbol": "EOS3SUSDT",
-    "netValue": "1.10774"
+    "netValue": "1.114308"
   },
   "CEL3SUSDT": {
     "symbol": "CEL3SUSDT",
-    "netValue": "0.14238"
+    "netValue": "0.142512"
   },
   "EGLD3SUSDT": {
     "symbol": "EGLD3SUSDT",
-    "netValue": "0.304899"
+    "netValue": "0.306268"
   },
   "LDO3LUSDT": {
     "symbol": "LDO3LUSDT",
-    "netValue": "1.674363"
+    "netValue": "1.6946"
   },
   "SOL3SUSDT": {
     "symbol": "SOL3SUSDT",
-    "netValue": "0.002699"
+    "netValue": "0.00273"
   },
   "IOTA3LUSDT": {
     "symbol": "IOTA3LUSDT",
-    "netValue": "0.317749"
+    "netValue": "0.315175"
   },
   "SUSHI3LUSDT": {
     "symbol": "SUSHI3LUSDT",
@@ -117,27 +117,27 @@
   },
   "GTC3LUSDT": {
     "symbol": "GTC3LUSDT",
-    "netValue": "0.371063"
+    "netValue": "0.371826"
   },
   "KSM3LUSDT": {
     "symbol": "KSM3LUSDT",
-    "netValue": "0.677102"
+    "netValue": "0.678297"
   },
   "ICP3LUSDT": {
     "symbol": "ICP3LUSDT",
-    "netValue": "0.250586"
+    "netValue": "0.248057"
   },
   "VET3LUSDT": {
     "symbol": "VET3LUSDT",
-    "netValue": "0.573066"
+    "netValue": "0.569137"
   },
   "IOST3LUSDT": {
     "symbol": "IOST3LUSDT",
-    "netValue": "0.165463"
+    "netValue": "0.163947"
   },
   "XTZ5LUSDT": {
     "symbol": "XTZ5LUSDT",
-    "netValue": "0.112509"
+    "netValue": "0.111939"
   },
   "ANT3SUSDT": {
     "symbol": "ANT3SUSDT",
@@ -145,11 +145,11 @@
   },
   "AVAX3LUSDT": {
     "symbol": "AVAX3LUSDT",
-    "netValue": "0.598677"
+    "netValue": "0.60245"
   },
   "ACH3SUSDT": {
     "symbol": "ACH3SUSDT",
-    "netValue": "0.320936"
+    "netValue": "0.330828"
   },
   "DGB3LUSDT": {
     "symbol": "DGB3LUSDT",
@@ -157,79 +157,79 @@
   },
   "DOGE5LUSDT": {
     "symbol": "DOGE5LUSDT",
-    "netValue": "0.008233"
+    "netValue": "0.008161"
   },
   "ETH2SUSDT": {
     "symbol": "ETH2SUSDT",
-    "netValue": "0.221845"
+    "netValue": "0.223071"
   },
   "CELR3SUSDT": {
     "symbol": "CELR3SUSDT",
-    "netValue": "0.098814"
+    "netValue": "0.09941"
   },
   "LDO3SUSDT": {
     "symbol": "LDO3SUSDT",
-    "netValue": "0.00407"
+    "netValue": "0.004021"
   },
   "OSMO3LUSDT": {
     "symbol": "OSMO3LUSDT",
-    "netValue": "0.049633"
+    "netValue": "0.048582"
   },
   "KAVA3LUSDT": {
     "symbol": "KAVA3LUSDT",
-    "netValue": "0.533381"
+    "netValue": "0.530038"
   },
   "REEF3LUSDT": {
     "symbol": "REEF3LUSDT",
-    "netValue": "0.261073"
+    "netValue": "0.264406"
   },
   "XEC3LUSDT": {
     "symbol": "XEC3LUSDT",
-    "netValue": "0.464051"
+    "netValue": "0.458696"
   },
   "C983LUSDT": {
     "symbol": "C983LUSDT",
-    "netValue": "0.054361"
+    "netValue": "0.054287"
   },
   "HNT3SUSDT": {
     "symbol": "HNT3SUSDT",
-    "netValue": "0.089287"
+    "netValue": "0.088554"
   },
   "SHIB3SUSDT": {
     "symbol": "SHIB3SUSDT",
-    "netValue": "0.109544"
+    "netValue": "0.110282"
   },
   "IOTA3SUSDT": {
     "symbol": "IOTA3SUSDT",
-    "netValue": "0.343327"
+    "netValue": "0.346193"
   },
   "XLM3LUSDT": {
     "symbol": "XLM3LUSDT",
-    "netValue": "0.461943"
+    "netValue": "0.45927"
   },
   "BAKE3SUSDT": {
     "symbol": "BAKE3SUSDT",
-    "netValue": "0.386563"
+    "netValue": "0.387234"
   },
   "ACH3LUSDT": {
     "symbol": "ACH3LUSDT",
-    "netValue": "0.449807"
+    "netValue": "0.436621"
   },
   "SAND3SUSDT": {
     "symbol": "SAND3SUSDT",
-    "netValue": "0.423611"
+    "netValue": "0.428932"
   },
   "NKN3LUSDT": {
     "symbol": "NKN3LUSDT",
-    "netValue": "0.592473"
+    "netValue": "0.589678"
   },
   "PORTO3SUSDT": {
     "symbol": "PORTO3SUSDT",
-    "netValue": "0.324663"
+    "netValue": "0.324696"
   },
   "SPELL3SUSDT": {
     "symbol": "SPELL3SUSDT",
-    "netValue": "0.367171"
+    "netValue": "0.368245"
   },
   "BAT3SUSDT": {
     "symbol": "BAT3SUSDT",
@@ -237,127 +237,127 @@
   },
   "EOS4SUSDT": {
     "symbol": "EOS4SUSDT",
-    "netValue": "0.240053"
+    "netValue": "0.241962"
   },
   "XTZ3SUSDT": {
     "symbol": "XTZ3SUSDT",
-    "netValue": "0.345705"
+    "netValue": "0.346669"
   },
   "KLAY3SUSDT": {
     "symbol": "KLAY3SUSDT",
-    "netValue": "0.43004"
+    "netValue": "0.435475"
   },
   "LTC2SUSDT": {
     "symbol": "LTC2SUSDT",
-    "netValue": "0.691016"
+    "netValue": "0.693487"
   },
   "RSR3LUSDT": {
     "symbol": "RSR3LUSDT",
-    "netValue": "0.182417"
+    "netValue": "0.181596"
   },
   "BCH5SUSDT": {
     "symbol": "BCH5SUSDT",
-    "netValue": "0.055461"
+    "netValue": "0.055808"
   },
   "ROSE3SUSDT": {
     "symbol": "ROSE3SUSDT",
-    "netValue": "0.209957"
+    "netValue": "0.211987"
   },
   "STORJ3LUSDT": {
     "symbol": "STORJ3LUSDT",
-    "netValue": "0.265512"
+    "netValue": "0.26688"
   },
   "EOS5LUSDT": {
     "symbol": "EOS5LUSDT",
-    "netValue": "0.486738"
+    "netValue": "0.482146"
   },
   "CHR3SUSDT": {
     "symbol": "CHR3SUSDT",
-    "netValue": "0.15517"
+    "netValue": "0.154855"
   },
   "QTUM3LUSDT": {
     "symbol": "QTUM3LUSDT",
-    "netValue": "0.132719"
+    "netValue": "0.132389"
   },
   "ALICE3LUSDT": {
     "symbol": "ALICE3LUSDT",
-    "netValue": "0.42846"
+    "netValue": "0.43029"
   },
   "ENJ3SUSDT": {
     "symbol": "ENJ3SUSDT",
-    "netValue": "0.384513"
+    "netValue": "0.38701"
   },
   "ETHW3LUSDT": {
     "symbol": "ETHW3LUSDT",
-    "netValue": "0.211949"
+    "netValue": "0.220881"
   },
   "XRP4LUSDT": {
     "symbol": "XRP4LUSDT",
-    "netValue": "0.166967"
+    "netValue": "0.164061"
   },
   "REN3SUSDT": {
     "symbol": "REN3SUSDT",
-    "netValue": "0.10602"
+    "netValue": "0.105591"
   },
   "CTK3LUSDT": {
     "symbol": "CTK3LUSDT",
-    "netValue": "0.267698"
+    "netValue": "0.266783"
   },
   "DYDX3LUSDT": {
     "symbol": "DYDX3LUSDT",
-    "netValue": "0.146793"
+    "netValue": "0.14744"
   },
   "APE3LUSDT": {
     "symbol": "APE3LUSDT",
-    "netValue": "0.208849"
+    "netValue": "0.208348"
   },
   "NKN3SUSDT": {
     "symbol": "NKN3SUSDT",
-    "netValue": "0.184948"
+    "netValue": "0.185872"
   },
   "CTSI3LUSDT": {
     "symbol": "CTSI3LUSDT",
-    "netValue": "0.352843"
+    "netValue": "0.34963"
   },
   "FTM3LUSDT": {
     "symbol": "FTM3LUSDT",
-    "netValue": "0.656065"
+    "netValue": "0.65072"
   },
   "RAD3LUSDT": {
     "symbol": "RAD3LUSDT",
-    "netValue": "0.154338"
+    "netValue": "0.152735"
   },
   "BTC3LUSDT": {
     "symbol": "BTC3LUSDT",
-    "netValue": "0.181039"
+    "netValue": "0.17967"
   },
   "DEGO3SUSDT": {
     "symbol": "DEGO3SUSDT",
-    "netValue": "1.65258"
+    "netValue": "1.627112"
   },
   "JASMY3LUSDT": {
     "symbol": "JASMY3LUSDT",
-    "netValue": "0.239221"
+    "netValue": "0.236593"
   },
   "SANTOS3SUSDT": {
     "symbol": "SANTOS3SUSDT",
-    "netValue": "0.642153"
+    "netValue": "0.638877"
   },
   "SOL3LUSDT": {
     "symbol": "SOL3LUSDT",
-    "netValue": "1.20393"
+    "netValue": "1.190295"
   },
   "ATOM4LUSDT": {
     "symbol": "ATOM4LUSDT",
-    "netValue": "0.183812"
+    "netValue": "0.181419"
   },
   "NEO3SUSDT": {
     "symbol": "NEO3SUSDT",
-    "netValue": "0.189258"
+    "netValue": "0.190847"
   },
   "ETH5SUSDT": {
     "symbol": "ETH5SUSDT",
-    "netValue": "0.010876"
+    "netValue": "0.01103"
   },
   "MASK3SUSDT": {
     "symbol": "MASK3SUSDT",
@@ -365,19 +365,19 @@
   },
   "ATOM3LUSDT": {
     "symbol": "ATOM3LUSDT",
-    "netValue": "0.269776"
+    "netValue": "0.267146"
   },
   "XEM3SUSDT": {
     "symbol": "XEM3SUSDT",
-    "netValue": "0.064022"
+    "netValue": "0.064552"
   },
   "ZIL3LUSDT": {
     "symbol": "ZIL3LUSDT",
-    "netValue": "0.696543"
+    "netValue": "0.695042"
   },
   "ALGO3LUSDT": {
     "symbol": "ALGO3LUSDT",
-    "netValue": "0.134242"
+    "netValue": "0.134588"
   },
   "AGLD3LUSDT": {
     "symbol": "AGLD3LUSDT",
@@ -385,15 +385,15 @@
   },
   "SKL3LUSDT": {
     "symbol": "SKL3LUSDT",
-    "netValue": "0.398393"
+    "netValue": "0.400791"
   },
   "DENT3LUSDT": {
     "symbol": "DENT3LUSDT",
-    "netValue": "0.714929"
+    "netValue": "0.705583"
   },
   "CTSI3SUSDT": {
     "symbol": "CTSI3SUSDT",
-    "netValue": "0.249661"
+    "netValue": "0.251966"
   },
   "FLR3LUSDT": {
     "symbol": "FLR3LUSDT",
@@ -401,35 +401,35 @@
   },
   "XRP5SUSDT": {
     "symbol": "XRP5SUSDT",
-    "netValue": "0.025524"
+    "netValue": "0.026173"
   },
   "CRO3SUSDT": {
     "symbol": "CRO3SUSDT",
-    "netValue": "0.235269"
+    "netValue": "0.237136"
   },
   "VET3SUSDT": {
     "symbol": "VET3SUSDT",
-    "netValue": "0.436489"
+    "netValue": "0.43961"
   },
   "COMP3LUSDT": {
     "symbol": "COMP3LUSDT",
-    "netValue": "0.403904"
+    "netValue": "0.407867"
   },
   "DOGE3LUSDT": {
     "symbol": "DOGE3LUSDT",
-    "netValue": "0.05361"
+    "netValue": "0.053325"
   },
   "BIT3LUSDT": {
     "symbol": "BIT3LUSDT",
-    "netValue": "2.284344"
+    "netValue": "2.285668"
   },
   "SFP3SUSDT": {
     "symbol": "SFP3SUSDT",
-    "netValue": "0.070322"
+    "netValue": "0.071045"
   },
   "APE3SUSDT": {
     "symbol": "APE3SUSDT",
-    "netValue": "0.021979"
+    "netValue": "0.022033"
   },
   "BAT3LUSDT": {
     "symbol": "BAT3LUSDT",
@@ -437,119 +437,119 @@
   },
   "XEM3LUSDT": {
     "symbol": "XEM3LUSDT",
-    "netValue": "0.647945"
+    "netValue": "0.64283"
   },
   "LRC3LUSDT": {
     "symbol": "LRC3LUSDT",
-    "netValue": "0.968984"
+    "netValue": "0.960589"
   },
   "WOO3LUSDT": {
     "symbol": "WOO3LUSDT",
-    "netValue": "0.312531"
+    "netValue": "0.309914"
   },
   "XRP3LUSDT": {
     "symbol": "XRP3LUSDT",
-    "netValue": "0.101539"
+    "netValue": "0.100192"
   },
   "LTC5SUSDT": {
     "symbol": "LTC5SUSDT",
-    "netValue": "0.145358"
+    "netValue": "0.146717"
   },
   "VINU3LUSDT": {
     "symbol": "VINU3LUSDT",
-    "netValue": "0.682068"
+    "netValue": "0.666206"
   },
   "SXP3SUSDT": {
     "symbol": "SXP3SUSDT",
-    "netValue": "0.086574"
+    "netValue": "0.087167"
   },
   "BEL3SUSDT": {
     "symbol": "BEL3SUSDT",
-    "netValue": "0.267529"
+    "netValue": "0.267369"
   },
   "SNX3LUSDT": {
     "symbol": "SNX3LUSDT",
-    "netValue": "0.315075"
+    "netValue": "0.312155"
   },
   "ONT3LUSDT": {
     "symbol": "ONT3LUSDT",
-    "netValue": "0.956871"
+    "netValue": "0.954004"
   },
   "LIT3LUSDT": {
     "symbol": "LIT3LUSDT",
-    "netValue": "0.150492"
+    "netValue": "0.151952"
   },
   "USTC3LUSDT": {
     "symbol": "USTC3LUSDT",
-    "netValue": "0.072127"
+    "netValue": "0.072772"
   },
   "APT3SUSDT": {
     "symbol": "APT3SUSDT",
-    "netValue": "0.02437"
+    "netValue": "0.024748"
   },
   "THETA3LUSDT": {
     "symbol": "THETA3LUSDT",
-    "netValue": "0.600441"
+    "netValue": "0.609331"
   },
   "GALA3LUSDT": {
     "symbol": "GALA3LUSDT",
-    "netValue": "0.390047"
+    "netValue": "0.384731"
   },
   "OCEAN3SUSDT": {
     "symbol": "OCEAN3SUSDT",
-    "netValue": "0.023753"
+    "netValue": "0.023512"
   },
   "LINA3LUSDT": {
     "symbol": "LINA3LUSDT",
-    "netValue": "0.269589"
+    "netValue": "0.267171"
   },
   "DAR3SUSDT": {
     "symbol": "DAR3SUSDT",
-    "netValue": "0.06977"
+    "netValue": "0.070354"
   },
   "CTK3SUSDT": {
     "symbol": "CTK3SUSDT",
-    "netValue": "0.456839"
+    "netValue": "0.458457"
   },
   "DOGE4LUSDT": {
     "symbol": "DOGE4LUSDT",
-    "netValue": "0.093727"
+    "netValue": "0.093067"
   },
   "RLC3SUSDT": {
     "symbol": "RLC3SUSDT",
-    "netValue": "0.047235"
+    "netValue": "0.047362"
   },
   "ENS3SUSDT": {
     "symbol": "ENS3SUSDT",
-    "netValue": "0.235252"
+    "netValue": "0.236429"
   },
   "ZRX3SUSDT": {
     "symbol": "ZRX3SUSDT",
-    "netValue": "0.353243"
+    "netValue": "0.352219"
   },
   "DAR3LUSDT": {
     "symbol": "DAR3LUSDT",
-    "netValue": "0.162537"
+    "netValue": "0.161388"
   },
   "GRT3SUSDT": {
     "symbol": "GRT3SUSDT",
-    "netValue": "0.167744"
+    "netValue": "0.169447"
   },
   "BAND3SUSDT": {
     "symbol": "BAND3SUSDT",
-    "netValue": "0.053292"
+    "netValue": "0.05379"
   },
   "DASH3LUSDT": {
     "symbol": "DASH3LUSDT",
-    "netValue": "0.482853"
+    "netValue": "0.486007"
   },
   "ROSE3LUSDT": {
     "symbol": "ROSE3LUSDT",
-    "netValue": "0.157905"
+    "netValue": "0.156208"
   },
   "APT3LUSDT": {
     "symbol": "APT3LUSDT",
-    "netValue": "0.326204"
+    "netValue": "0.320777"
   },
   "PSG3LUSDT": {
     "symbol": "PSG3LUSDT",
@@ -557,11 +557,11 @@
   },
   "TRX5SUSDT": {
     "symbol": "TRX5SUSDT",
-    "netValue": "0.134186"
+    "netValue": "0.134619"
   },
   "RVN3LUSDT": {
     "symbol": "RVN3LUSDT",
-    "netValue": "0.556068"
+    "netValue": "0.562064"
   },
   "AGLD3SUSDT": {
     "symbol": "AGLD3SUSDT",
@@ -569,51 +569,51 @@
   },
   "HT3LUSDT": {
     "symbol": "HT3LUSDT",
-    "netValue": "0.082711"
+    "netValue": "0.08302"
   },
   "FLM3LUSDT": {
     "symbol": "FLM3LUSDT",
-    "netValue": "0.112664"
+    "netValue": "0.111601"
   },
   "COTI3LUSDT": {
     "symbol": "COTI3LUSDT",
-    "netValue": "0.189383"
+    "netValue": "0.189913"
   },
   "LTC4LUSDT": {
     "symbol": "LTC4LUSDT",
-    "netValue": "0.264828"
+    "netValue": "0.263087"
   },
   "LTC4SUSDT": {
     "symbol": "LTC4SUSDT",
-    "netValue": "0.119015"
+    "netValue": "0.119892"
   },
   "BAND3LUSDT": {
     "symbol": "BAND3LUSDT",
-    "netValue": "0.11123"
+    "netValue": "0.110178"
   },
   "LUNA3LUSDT": {
     "symbol": "LUNA3LUSDT",
-    "netValue": "0.2938"
+    "netValue": "0.292538"
   },
   "JST3SUSDT": {
     "symbol": "JST3SUSDT",
-    "netValue": "0.141119"
+    "netValue": "0.141298"
   },
   "GLMR3SUSDT": {
     "symbol": "GLMR3SUSDT",
-    "netValue": "0.338924"
+    "netValue": "0.344192"
   },
   "ONE3LUSDT": {
     "symbol": "ONE3LUSDT",
-    "netValue": "0.795474"
+    "netValue": "0.791069"
   },
   "AUDIO3SUSDT": {
     "symbol": "AUDIO3SUSDT",
-    "netValue": "0.238214"
+    "netValue": "0.237834"
   },
   "ALPHA3LUSDT": {
     "symbol": "ALPHA3LUSDT",
-    "netValue": "0.212504"
+    "netValue": "0.220396"
   },
   "PSG3SUSDT": {
     "symbol": "PSG3SUSDT",
@@ -621,155 +621,155 @@
   },
   "LTC3LUSDT": {
     "symbol": "LTC3LUSDT",
-    "netValue": "0.394081"
+    "netValue": "0.392111"
   },
   "CEL3LUSDT": {
     "symbol": "CEL3LUSDT",
-    "netValue": "0.050844"
+    "netValue": "0.050796"
   },
   "BTC5LUSDT": {
     "symbol": "BTC5LUSDT",
-    "netValue": "1.265259"
+    "netValue": "1.249585"
   },
   "DEFI3LUSDT": {
     "symbol": "DEFI3LUSDT",
-    "netValue": "0.297527"
+    "netValue": "0.29632"
   },
   "LOOKS3LUSDT": {
     "symbol": "LOOKS3LUSDT",
-    "netValue": "0.191601"
+    "netValue": "0.193164"
   },
   "BNX3LUSDT": {
     "symbol": "BNX3LUSDT",
-    "netValue": "0.186096"
+    "netValue": "0.186503"
   },
   "SPELL3LUSDT": {
     "symbol": "SPELL3LUSDT",
-    "netValue": "0.601124"
+    "netValue": "0.599345"
   },
   "BAL3LUSDT": {
     "symbol": "BAL3LUSDT",
-    "netValue": "0.148102"
+    "netValue": "0.147702"
   },
   "AAVE3SUSDT": {
     "symbol": "AAVE3SUSDT",
-    "netValue": "0.188257"
+    "netValue": "0.190674"
   },
   "UNI3LUSDT": {
     "symbol": "UNI3LUSDT",
-    "netValue": "0.378532"
+    "netValue": "0.374311"
   },
   "BONK3LUSDT": {
     "symbol": "BONK3LUSDT",
-    "netValue": "0.00219"
+    "netValue": "0.00216"
   },
   "SWEAT3LUSDT": {
     "symbol": "SWEAT3LUSDT",
-    "netValue": "0.375006"
+    "netValue": "0.372124"
   },
   "SHIB5LUSDT": {
     "symbol": "SHIB5LUSDT",
-    "netValue": "0.330126"
+    "netValue": "0.326389"
   },
   "SXP3LUSDT": {
     "symbol": "SXP3LUSDT",
-    "netValue": "0.469682"
+    "netValue": "0.466523"
   },
   "MTL3SUSDT": {
     "symbol": "MTL3SUSDT",
-    "netValue": "0.111039"
+    "netValue": "0.112159"
   },
   "ZEC3LUSDT": {
     "symbol": "ZEC3LUSDT",
-    "netValue": "0.128901"
+    "netValue": "0.130034"
   },
   "ETH3SUSDT": {
     "symbol": "ETH3SUSDT",
-    "netValue": "0.038245"
+    "netValue": "0.038565"
   },
   "ENJ3LUSDT": {
     "symbol": "ENJ3LUSDT",
-    "netValue": "0.175445"
+    "netValue": "0.174279"
   },
   "ENS3LUSDT": {
     "symbol": "ENS3LUSDT",
-    "netValue": "0.850285"
+    "netValue": "0.846067"
   },
   "QNT3SUSDT": {
     "symbol": "QNT3SUSDT",
-    "netValue": "0.04697"
+    "netValue": "0.046876"
   },
   "NEAR3LUSDT": {
     "symbol": "NEAR3LUSDT",
-    "netValue": "0.20543"
+    "netValue": "0.204316"
   },
   "XTZ5SUSDT": {
     "symbol": "XTZ5SUSDT",
-    "netValue": "0.204545"
+    "netValue": "0.205477"
   },
   "SWEAT3SUSDT": {
     "symbol": "SWEAT3SUSDT",
-    "netValue": "0.501171"
+    "netValue": "0.504983"
   },
   "ZEN3LUSDT": {
     "symbol": "ZEN3LUSDT",
-    "netValue": "0.72668"
+    "netValue": "0.719452"
   },
   "DOT5SUSDT": {
     "symbol": "DOT5SUSDT",
-    "netValue": "0.032845"
+    "netValue": "0.033222"
   },
   "EOS4LUSDT": {
     "symbol": "EOS4LUSDT",
-    "netValue": "0.961705"
+    "netValue": "0.954405"
   },
   "RACA3LUSDT": {
     "symbol": "RACA3LUSDT",
-    "netValue": "0.195501"
+    "netValue": "0.196486"
   },
   "CHR3LUSDT": {
     "symbol": "CHR3LUSDT",
-    "netValue": "1.230335"
+    "netValue": "1.232932"
   },
   "DYDX3SUSDT": {
     "symbol": "DYDX3SUSDT",
-    "netValue": "0.206868"
+    "netValue": "0.206082"
   },
   "FLM3SUSDT": {
     "symbol": "FLM3SUSDT",
-    "netValue": "0.156043"
+    "netValue": "0.157573"
   },
   "ZIL3SUSDT": {
     "symbol": "ZIL3SUSDT",
-    "netValue": "0.076937"
+    "netValue": "0.07711"
   },
   "XEC3SUSDT": {
     "symbol": "XEC3SUSDT",
-    "netValue": "0.388715"
+    "netValue": "0.393504"
   },
   "DOGE4SUSDT": {
     "symbol": "DOGE4SUSDT",
-    "netValue": "0.189795"
+    "netValue": "0.191182"
   },
   "HNT3LUSDT": {
     "symbol": "HNT3LUSDT",
-    "netValue": "0.257291"
+    "netValue": "0.259064"
   },
   "AXS3LUSDT": {
     "symbol": "AXS3LUSDT",
-    "netValue": "0.240788"
+    "netValue": "0.239985"
   },
   "CRV3LUSDT": {
     "symbol": "CRV3LUSDT",
-    "netValue": "1.774557"
+    "netValue": "1.719503"
   },
   "OMG3SUSDT": {
     "symbol": "OMG3SUSDT",
-    "netValue": "0.267448"
+    "netValue": "0.268679"
   },
   "IOTX3SUSDT": {
     "symbol": "IOTX3SUSDT",
-    "netValue": "0.082117"
+    "netValue": "0.082444"
   },
   "FLR3SUSDT": {
     "symbol": "FLR3SUSDT",
@@ -781,51 +781,51 @@
   },
   "XRP3SUSDT": {
     "symbol": "XRP3SUSDT",
-    "netValue": "0.089137"
+    "netValue": "0.090449"
   },
   "BTS3SUSDT": {
     "symbol": "BTS3SUSDT",
-    "netValue": "0.289274"
+    "netValue": "0.283586"
   },
   "YFII3SUSDT": {
     "symbol": "YFII3SUSDT",
-    "netValue": "0.333805"
+    "netValue": "0.333517"
   },
   "LIT3SUSDT": {
     "symbol": "LIT3SUSDT",
-    "netValue": "0.122645"
+    "netValue": "0.121448"
   },
   "TRX3LUSDT": {
     "symbol": "TRX3LUSDT",
-    "netValue": "0.440868"
+    "netValue": "0.440016"
   },
   "MKR3LUSDT": {
     "symbol": "MKR3LUSDT",
-    "netValue": "0.258747"
+    "netValue": "0.262816"
   },
   "STEPN3SUSDT": {
     "symbol": "STEPN3SUSDT",
-    "netValue": "0.025396"
+    "netValue": "0.025576"
   },
   "MATIC3LUSDT": {
     "symbol": "MATIC3LUSDT",
-    "netValue": "0.475635"
+    "netValue": "0.472971"
   },
   "ETH3LUSDT": {
     "symbol": "ETH3LUSDT",
-    "netValue": "0.364046"
+    "netValue": "0.361152"
   },
   "ICX3SUSDT": {
     "symbol": "ICX3SUSDT",
-    "netValue": "0.131188"
+    "netValue": "0.131579"
   },
   "ANC3LUSDT": {
     "symbol": "ANC3LUSDT",
-    "netValue": "0.084462"
+    "netValue": "0.083799"
   },
   "LINK3SUSDT": {
     "symbol": "LINK3SUSDT",
-    "netValue": "0.228488"
+    "netValue": "0.230992"
   },
   "STG3LUSDT": {
     "symbol": "STG3LUSDT",
@@ -833,107 +833,107 @@
   },
   "IOTX3LUSDT": {
     "symbol": "IOTX3LUSDT",
-    "netValue": "0.191697"
+    "netValue": "0.190887"
   },
   "RAD3SUSDT": {
     "symbol": "RAD3SUSDT",
-    "netValue": "0.080597"
+    "netValue": "0.081437"
   },
   "BONE3SUSDT": {
     "symbol": "BONE3SUSDT",
-    "netValue": "0.006468"
+    "netValue": "0.006583"
   },
   "RACA3SUSDT": {
     "symbol": "RACA3SUSDT",
-    "netValue": "0.319897"
+    "netValue": "0.318308"
   },
   "BTC5SUSDT": {
     "symbol": "BTC5SUSDT",
-    "netValue": "0.077695"
+    "netValue": "0.078747"
   },
   "BSV3LUSDT": {
     "symbol": "BSV3LUSDT",
-    "netValue": "0.441775"
+    "netValue": "0.439735"
   },
   "YFI3SUSDT": {
     "symbol": "YFI3SUSDT",
-    "netValue": "0.174545"
+    "netValue": "0.175063"
   },
   "YFII3LUSDT": {
     "symbol": "YFII3LUSDT",
-    "netValue": "0.535771"
+    "netValue": "0.536252"
   },
   "FOOTBALL3LUSDT": {
     "symbol": "FOOTBALL3LUSDT",
-    "netValue": "0.073425"
+    "netValue": "0.073261"
   },
   "XRP5LUSDT": {
     "symbol": "XRP5LUSDT",
-    "netValue": "0.078142"
+    "netValue": "0.076467"
   },
   "BNX3SUSDT": {
     "symbol": "BNX3SUSDT",
-    "netValue": "0.169397"
+    "netValue": "0.169001"
   },
   "CVX3LUSDT": {
     "symbol": "CVX3LUSDT",
-    "netValue": "1.281361"
+    "netValue": "1.272966"
   },
   "BSV4LUSDT": {
     "symbol": "BSV4LUSDT",
-    "netValue": "0.204106"
+    "netValue": "0.202857"
   },
   "AVAX3SUSDT": {
     "symbol": "AVAX3SUSDT",
-    "netValue": "0.118363"
+    "netValue": "0.117667"
   },
   "SNX3SUSDT": {
     "symbol": "SNX3SUSDT",
-    "netValue": "0.156272"
+    "netValue": "0.157683"
   },
   "LUNC3SUSDT": {
     "symbol": "LUNC3SUSDT",
-    "netValue": "0.05767"
+    "netValue": "0.057962"
   },
   "TOMO3SUSDT": {
     "symbol": "TOMO3SUSDT",
-    "netValue": "0.318009"
+    "netValue": "0.320839"
   },
   "MKR3SUSDT": {
     "symbol": "MKR3SUSDT",
-    "netValue": "0.510632"
+    "netValue": "0.503589"
   },
   "GAL3LUSDT": {
     "symbol": "GAL3LUSDT",
-    "netValue": "0.249439"
+    "netValue": "0.249862"
   },
   "RLC3LUSDT": {
     "symbol": "RLC3LUSDT",
-    "netValue": "1.152298"
+    "netValue": "1.149805"
   },
   "ALPINE3SUSDT": {
     "symbol": "ALPINE3SUSDT",
-    "netValue": "1.229782"
+    "netValue": "1.231915"
   },
   "EOS3LUSDT": {
     "symbol": "EOS3LUSDT",
-    "netValue": "0.414977"
+    "netValue": "0.412602"
   },
   "LUNC3LUSDT": {
     "symbol": "LUNC3LUSDT",
-    "netValue": "0.115513"
+    "netValue": "0.114922"
   },
   "CVX3SUSDT": {
     "symbol": "CVX3SUSDT",
-    "netValue": "0.07944"
+    "netValue": "0.079974"
   },
   "SLP3LUSDT": {
     "symbol": "SLP3LUSDT",
-    "netValue": "0.285204"
+    "netValue": "0.282263"
   },
   "ETH4LUSDT": {
     "symbol": "ETH4LUSDT",
-    "netValue": "0.916965"
+    "netValue": "0.907324"
   },
   "TRB3LUSDT": {
     "symbol": "TRB3LUSDT",
@@ -941,7 +941,7 @@
   },
   "ALGO3SUSDT": {
     "symbol": "ALGO3SUSDT",
-    "netValue": "1.185382"
+    "netValue": "1.182328"
   },
   "SUSHI3SUSDT": {
     "symbol": "SUSHI3SUSDT",
@@ -949,23 +949,23 @@
   },
   "XMR3LUSDT": {
     "symbol": "XMR3LUSDT",
-    "netValue": "0.946109"
+    "netValue": "0.94137"
   },
   "1INCH3LUSDT": {
     "symbol": "1INCH3LUSDT",
-    "netValue": "0.145739"
+    "netValue": "0.145558"
   },
   "SNFT3SUSDT": {
     "symbol": "SNFT3SUSDT",
-    "netValue": "0.050523"
+    "netValue": "0.048464"
   },
   "IMX3SUSDT": {
     "symbol": "IMX3SUSDT",
-    "netValue": "0.188931"
+    "netValue": "0.188572"
   },
   "MTL3LUSDT": {
     "symbol": "MTL3LUSDT",
-    "netValue": "0.823661"
+    "netValue": "0.815138"
   },
   "STMX3LUSDT": {
     "symbol": "STMX3LUSDT",
@@ -973,183 +973,183 @@
   },
   "ZEN3SUSDT": {
     "symbol": "ZEN3SUSDT",
-    "netValue": "0.567593"
+    "netValue": "0.573954"
   },
   "BSV4SUSDT": {
     "symbol": "BSV4SUSDT",
-    "netValue": "0.101806"
+    "netValue": "0.102461"
   },
   "EGLD3LUSDT": {
     "symbol": "EGLD3LUSDT",
-    "netValue": "0.300916"
+    "netValue": "0.299634"
   },
   "TRX3SUSDT": {
     "symbol": "TRX3SUSDT",
-    "netValue": "0.036778"
+    "netValue": "0.03685"
   },
   "CELR3LUSDT": {
     "symbol": "CELR3LUSDT",
-    "netValue": "0.200027"
+    "netValue": "0.19867"
   },
   "SFP3LUSDT": {
     "symbol": "SFP3LUSDT",
-    "netValue": "0.115498"
+    "netValue": "0.114274"
   },
   "API33SUSDT": {
     "symbol": "API33SUSDT",
-    "netValue": "0.095581"
+    "netValue": "0.09579"
   },
   "BNB3LUSDT": {
     "symbol": "BNB3LUSDT",
-    "netValue": "0.526714"
+    "netValue": "0.52593"
   },
   "DOT3LUSDT": {
     "symbol": "DOT3LUSDT",
-    "netValue": "0.381996"
+    "netValue": "0.379596"
   },
   "MINA3SUSDT": {
     "symbol": "MINA3SUSDT",
-    "netValue": "0.447303"
+    "netValue": "0.452139"
   },
   "NEAR3SUSDT": {
     "symbol": "NEAR3SUSDT",
-    "netValue": "0.160984"
+    "netValue": "0.161853"
   },
   "GALA3SUSDT": {
     "symbol": "GALA3SUSDT",
-    "netValue": "0.002396"
+    "netValue": "0.002424"
   },
   "XTZ3LUSDT": {
     "symbol": "XTZ3LUSDT",
-    "netValue": "0.167122"
+    "netValue": "0.166625"
   },
   "BONK3SUSDT": {
     "symbol": "BONK3SUSDT",
-    "netValue": "0.212183"
+    "netValue": "0.214989"
   },
   "BTC2SUSDT": {
     "symbol": "BTC2SUSDT",
-    "netValue": "0.138703"
+    "netValue": "0.139434"
   },
   "KLAY3LUSDT": {
     "symbol": "KLAY3LUSDT",
-    "netValue": "0.145574"
+    "netValue": "0.143746"
   },
   "REEF3SUSDT": {
     "symbol": "REEF3SUSDT",
-    "netValue": "1.205109"
+    "netValue": "1.183304"
   },
   "UNFI3LUSDT": {
     "symbol": "UNFI3LUSDT",
-    "netValue": "0.30254"
+    "netValue": "0.300386"
   },
   "ANKR3LUSDT": {
     "symbol": "ANKR3LUSDT",
-    "netValue": "0.090199"
+    "netValue": "0.089626"
   },
   "CHZ3SUSDT": {
     "symbol": "CHZ3SUSDT",
-    "netValue": "0.745846"
+    "netValue": "0.74784"
   },
   "ALPHA3SUSDT": {
     "symbol": "ALPHA3SUSDT",
-    "netValue": "0.028698"
+    "netValue": "0.027671"
   },
   "CREAM3LUSDT": {
     "symbol": "CREAM3LUSDT",
-    "netValue": "0.493446"
+    "netValue": "0.489296"
   },
   "CRO3LUSDT": {
     "symbol": "CRO3LUSDT",
-    "netValue": "0.615539"
+    "netValue": "0.610979"
   },
   "WOO3SUSDT": {
     "symbol": "WOO3SUSDT",
-    "netValue": "0.023709"
+    "netValue": "0.023894"
   },
   "DENT3SUSDT": {
     "symbol": "DENT3SUSDT",
-    "netValue": "0.048861"
+    "netValue": "0.04954"
   },
   "KSM3SUSDT": {
     "symbol": "KSM3SUSDT",
-    "netValue": "0.135005"
+    "netValue": "0.13479"
   },
   "BAKE3LUSDT": {
     "symbol": "BAKE3LUSDT",
-    "netValue": "0.376513"
+    "netValue": "0.375831"
   },
   "GAL3SUSDT": {
     "symbol": "GAL3SUSDT",
-    "netValue": "0.428401"
+    "netValue": "0.427622"
   },
   "BCH5LUSDT": {
     "symbol": "BCH5LUSDT",
-    "netValue": "0.291954"
+    "netValue": "0.29022"
   },
   "BIT3SUSDT": {
     "symbol": "BIT3SUSDT",
-    "netValue": "0.029179"
+    "netValue": "0.029161"
   },
   "GRT3LUSDT": {
     "symbol": "GRT3LUSDT",
-    "netValue": "0.595463"
+    "netValue": "0.588726"
   },
   "ATOM3SUSDT": {
     "symbol": "ATOM3SUSDT",
-    "netValue": "0.134111"
+    "netValue": "0.135404"
   },
   "SRM3SUSDT": {
     "symbol": "SRM3SUSDT",
-    "netValue": "0.001792"
+    "netValue": "0.001795"
   },
   "BNB3SUSDT": {
     "symbol": "BNB3SUSDT",
-    "netValue": "0.291251"
+    "netValue": "0.291684"
   },
   "FOOTBALL3SUSDT": {
     "symbol": "FOOTBALL3SUSDT",
-    "netValue": "0.269792"
+    "netValue": "0.270401"
   },
   "DC3LUSDT": {
     "symbol": "DC3LUSDT",
-    "netValue": "0.140267"
+    "netValue": "0.141478"
   },
   "GTC3SUSDT": {
     "symbol": "GTC3SUSDT",
-    "netValue": "0.501446"
+    "netValue": "0.500594"
   },
   "PEOPLE3SUSDT": {
     "symbol": "PEOPLE3SUSDT",
-    "netValue": "0.19626"
+    "netValue": "0.196917"
   },
   "GMX3LUSDT": {
     "symbol": "GMX3LUSDT",
-    "netValue": "0.510887"
+    "netValue": "0.512351"
   },
   "ETH5LUSDT": {
     "symbol": "ETH5LUSDT",
-    "netValue": "0.155164"
+    "netValue": "0.153141"
   },
   "USTC3SUSDT": {
     "symbol": "USTC3SUSDT",
-    "netValue": "0.297436"
+    "netValue": "0.294961"
   },
   "FITFI3SUSDT": {
     "symbol": "FITFI3SUSDT",
-    "netValue": "0.565932"
+    "netValue": "0.564691"
   },
   "AR3LUSDT": {
     "symbol": "AR3LUSDT",
-    "netValue": "0.332526"
+    "netValue": "0.329311"
   },
   "ONT3SUSDT": {
     "symbol": "ONT3SUSDT",
-    "netValue": "0.087882"
+    "netValue": "0.08815"
   },
   "ADA3LUSDT": {
     "symbol": "ADA3LUSDT",
-    "netValue": "0.157327"
+    "netValue": "0.155991"
   },
   "STMX3SUSDT": {
     "symbol": "STMX3SUSDT",
@@ -1157,107 +1157,107 @@
   },
   "LTC5LUSDT": {
     "symbol": "LTC5LUSDT",
-    "netValue": "0.078548"
+    "netValue": "0.077911"
   },
   "BLZ3LUSDT": {
     "symbol": "BLZ3LUSDT",
-    "netValue": "0.186948"
+    "netValue": "0.185136"
   },
   "CHZ3LUSDT": {
     "symbol": "CHZ3LUSDT",
-    "netValue": "0.042245"
+    "netValue": "0.042135"
   },
   "DOT2SUSDT": {
     "symbol": "DOT2SUSDT",
-    "netValue": "0.499569"
+    "netValue": "0.501781"
   },
   "OMG3LUSDT": {
     "symbol": "OMG3LUSDT",
-    "netValue": "0.251268"
+    "netValue": "0.25009"
   },
   "QNT3LUSDT": {
     "symbol": "QNT3LUSDT",
-    "netValue": "0.343357"
+    "netValue": "0.344079"
   },
   "COTI3SUSDT": {
     "symbol": "COTI3SUSDT",
-    "netValue": "0.313105"
+    "netValue": "0.312237"
   },
   "OSMO3SUSDT": {
     "symbol": "OSMO3SUSDT",
-    "netValue": "0.070574"
+    "netValue": "0.072112"
   },
   "FILECOIN3LUSDT": {
     "symbol": "FILECOIN3LUSDT",
-    "netValue": "0.028264"
+    "netValue": "0.028018"
   },
   "ETHW3SUSDT": {
     "symbol": "ETHW3SUSDT",
-    "netValue": "0.155964"
+    "netValue": "0.145744"
   },
   "AAVE3LUSDT": {
     "symbol": "AAVE3LUSDT",
-    "netValue": "0.339229"
+    "netValue": "0.334"
   },
   "HT3SUSDT": {
     "symbol": "HT3SUSDT",
-    "netValue": "0.207159"
+    "netValue": "0.206468"
   },
   "ZRX3LUSDT": {
     "symbol": "ZRX3LUSDT",
-    "netValue": "0.44402"
+    "netValue": "0.445278"
   },
   "ALICE3SUSDT": {
     "symbol": "ALICE3SUSDT",
-    "netValue": "0.156207"
+    "netValue": "0.155657"
   },
   "SANTOS3LUSDT": {
     "symbol": "SANTOS3LUSDT",
-    "netValue": "0.116926"
+    "netValue": "0.117548"
   },
   "MATIC3SUSDT": {
     "symbol": "MATIC3SUSDT",
-    "netValue": "0.054112"
+    "netValue": "0.054419"
   },
   "FLOW3LUSDT": {
     "symbol": "FLOW3LUSDT",
-    "netValue": "0.054559"
+    "netValue": "0.054405"
   },
   "NEO3LUSDT": {
     "symbol": "NEO3LUSDT",
-    "netValue": "0.571346"
+    "netValue": "0.566716"
   },
   "DEFI3SUSDT": {
     "symbol": "DEFI3SUSDT",
-    "netValue": "0.327253"
+    "netValue": "0.328562"
   },
   "PEOPLE3LUSDT": {
     "symbol": "PEOPLE3LUSDT",
-    "netValue": "0.394991"
+    "netValue": "0.393618"
   },
   "BTC2LUSDT": {
     "symbol": "BTC2LUSDT",
-    "netValue": "0.877015"
+    "netValue": "0.872556"
   },
   "PERP3SUSDT": {
     "symbol": "PERP3SUSDT",
-    "netValue": "0.070699"
+    "netValue": "0.0716"
   },
   "TON3LUSDT": {
     "symbol": "TON3LUSDT",
-    "netValue": "0.658715"
+    "netValue": "0.653164"
   },
   "EOS5SUSDT": {
     "symbol": "EOS5SUSDT",
-    "netValue": "0.371796"
+    "netValue": "0.375514"
   },
   "SKL3SUSDT": {
     "symbol": "SKL3SUSDT",
-    "netValue": "0.482971"
+    "netValue": "0.479954"
   },
   "CVC3SUSDT": {
     "symbol": "CVC3SUSDT",
-    "netValue": "0.210959"
+    "netValue": "0.212177"
   },
   "STG3SUSDT": {
     "symbol": "STG3SUSDT",
@@ -1265,59 +1265,59 @@
   },
   "BAL3SUSDT": {
     "symbol": "BAL3SUSDT",
-    "netValue": "0.410989"
+    "netValue": "0.412059"
   },
   "BSV3SUSDT": {
     "symbol": "BSV3SUSDT",
-    "netValue": "0.089959"
+    "netValue": "0.09039"
   },
   "LINK3LUSDT": {
     "symbol": "LINK3LUSDT",
-    "netValue": "0.094409"
+    "netValue": "0.093497"
   },
   "MINA3LUSDT": {
     "symbol": "MINA3LUSDT",
-    "netValue": "0.494085"
+    "netValue": "0.488857"
   },
   "XLM3SUSDT": {
     "symbol": "XLM3SUSDT",
-    "netValue": "0.525879"
+    "netValue": "0.52896"
   },
   "LINA3SUSDT": {
     "symbol": "LINA3SUSDT",
-    "netValue": "0.496691"
+    "netValue": "0.501444"
   },
   "ARPA3LUSDT": {
     "symbol": "ARPA3LUSDT",
-    "netValue": "0.852403"
+    "netValue": "0.850186"
   },
   "SLP3SUSDT": {
     "symbol": "SLP3SUSDT",
-    "netValue": "0.075954"
+    "netValue": "0.076771"
   },
   "RVN3SUSDT": {
     "symbol": "RVN3SUSDT",
-    "netValue": "0.209885"
+    "netValue": "0.207537"
   },
   "BCH3SUSDT": {
     "symbol": "BCH3SUSDT",
-    "netValue": "0.232213"
+    "netValue": "0.233075"
   },
   "CEEK3SUSDT": {
     "symbol": "CEEK3SUSDT",
-    "netValue": "0.136827"
+    "netValue": "0.13603"
   },
   "SNFT3LUSDT": {
     "symbol": "SNFT3LUSDT",
-    "netValue": "0.293614"
+    "netValue": "0.305882"
   },
   "CRV3SUSDT": {
     "symbol": "CRV3SUSDT",
-    "netValue": "0.078333"
+    "netValue": "0.080941"
   },
   "DUSK3LUSDT": {
     "symbol": "DUSK3LUSDT",
-    "netValue": "0.179346"
+    "netValue": "0.178525"
   },
   "TRB3SUSDT": {
     "symbol": "TRB3SUSDT",
@@ -1325,31 +1325,31 @@
   },
   "BCH4SUSDT": {
     "symbol": "BCH4SUSDT",
-    "netValue": "0.161469"
+    "netValue": "0.162272"
   },
   "BTC3SUSDT": {
     "symbol": "BTC3SUSDT",
-    "netValue": "0.060185"
+    "netValue": "0.060666"
   },
   "LUNA3SUSDT": {
     "symbol": "LUNA3SUSDT",
-    "netValue": "0.075794"
+    "netValue": "0.076124"
   },
   "PORTO3LUSDT": {
     "symbol": "PORTO3LUSDT",
-    "netValue": "0.353216"
+    "netValue": "0.353181"
   },
   "KNC3SUSDT": {
     "symbol": "KNC3SUSDT",
-    "netValue": "0.1991"
+    "netValue": "0.200944"
   },
   "ETH4SUSDT": {
     "symbol": "ETH4SUSDT",
-    "netValue": "0.049792"
+    "netValue": "0.050352"
   },
   "API33LUSDT": {
     "symbol": "API33LUSDT",
-    "netValue": "0.700689"
+    "netValue": "0.699212"
   },
   "CELO3LUSDT": {
     "symbol": "CELO3LUSDT",
@@ -1357,103 +1357,103 @@
   },
   "XRP4SUSDT": {
     "symbol": "XRP4SUSDT",
-    "netValue": "0.492279"
+    "netValue": "0.502122"
   },
   "DOGE3SUSDT": {
     "symbol": "DOGE3SUSDT",
-    "netValue": "0.314126"
+    "netValue": "0.315841"
   },
   "KAVA3SUSDT": {
     "symbol": "KAVA3SUSDT",
-    "netValue": "0.051359"
+    "netValue": "0.051666"
   },
   "SHIB3LUSDT": {
     "symbol": "SHIB3LUSDT",
-    "netValue": "0.076799"
+    "netValue": "0.076279"
   },
   "FILECOIN3SUSDT": {
     "symbol": "FILECOIN3SUSDT",
-    "netValue": "0.334356"
+    "netValue": "0.337389"
   },
   "FTM3SUSDT": {
     "symbol": "FTM3SUSDT",
-    "netValue": "0.016477"
+    "netValue": "0.016609"
   },
   "XMR3SUSDT": {
     "symbol": "XMR3SUSDT",
-    "netValue": "0.063881"
+    "netValue": "0.064179"
   },
   "BLZ3SUSDT": {
     "symbol": "BLZ3SUSDT",
-    "netValue": "0.093014"
+    "netValue": "0.093908"
   },
   "BCH3LUSDT": {
     "symbol": "BCH3LUSDT",
-    "netValue": "0.868355"
+    "netValue": "0.865229"
   },
   "LAZIO3LUSDT": {
     "symbol": "LAZIO3LUSDT",
-    "netValue": "0.153543"
+    "netValue": "0.153198"
   },
   "DOGE5SUSDT": {
     "symbol": "DOGE5SUSDT",
-    "netValue": "0.066591"
+    "netValue": "0.067203"
   },
   "OGN3LUSDT": {
     "symbol": "OGN3LUSDT",
-    "netValue": "0.239095"
+    "netValue": "0.241566"
   },
   "LRC3SUSDT": {
     "symbol": "LRC3SUSDT",
-    "netValue": "0.131741"
+    "netValue": "0.132793"
   },
   "C983SUSDT": {
     "symbol": "C983SUSDT",
-    "netValue": "0.51657"
+    "netValue": "0.517279"
   },
   "ATOM4SUSDT": {
     "symbol": "ATOM4SUSDT",
-    "netValue": "0.042431"
+    "netValue": "0.042975"
   },
   "LOOKS3SUSDT": {
     "symbol": "LOOKS3SUSDT",
-    "netValue": "0.052311"
+    "netValue": "0.05185"
   },
   "LTC2LUSDT": {
     "symbol": "LTC2LUSDT",
-    "netValue": "0.236829"
+    "netValue": "0.236029"
   },
   "STORJ3SUSDT": {
     "symbol": "STORJ3SUSDT",
-    "netValue": "0.076538"
+    "netValue": "0.076121"
   },
   "ADA3SUSDT": {
     "symbol": "ADA3SUSDT",
-    "netValue": "0.210813"
+    "netValue": "0.212608"
   },
   "BTC4LUSDT": {
     "symbol": "BTC4LUSDT",
-    "netValue": "0.277057"
+    "netValue": "0.274288"
   },
   "ANKR3SUSDT": {
     "symbol": "ANKR3SUSDT",
-    "netValue": "0.088226"
+    "netValue": "0.088789"
   },
   "SRM3LUSDT": {
     "symbol": "SRM3LUSDT",
-    "netValue": "1.750348"
+    "netValue": "1.746549"
   },
   "WAVES3SUSDT": {
     "symbol": "WAVES3SUSDT",
-    "netValue": "0.062989"
+    "netValue": "0.063389"
   },
   "RUNE3SUSDT": {
     "symbol": "RUNE3SUSDT",
-    "netValue": "0.060579"
+    "netValue": "0.060787"
   },
   "ANC3SUSDT": {
     "symbol": "ANC3SUSDT",
-    "netValue": "0.100912"
+    "netValue": "0.101676"
   },
   "ANT3LUSDT": {
     "symbol": "ANT3LUSDT",
@@ -1461,19 +1461,19 @@
   },
   "ONE3SUSDT": {
     "symbol": "ONE3SUSDT",
-    "netValue": "0.099995"
+    "netValue": "0.100463"
   },
   "DOT3SUSDT": {
     "symbol": "DOT3SUSDT",
-    "netValue": "0.181109"
+    "netValue": "0.182325"
   },
   "UNI3SUSDT": {
     "symbol": "UNI3SUSDT",
-    "netValue": "0.080032"
+    "netValue": "0.080925"
   },
   "ZEC3SUSDT": {
     "symbol": "ZEC3SUSDT",
-    "netValue": "0.79047"
+    "netValue": "0.781992"
   },
   "DGB3SUSDT": {
     "symbol": "DGB3SUSDT",
@@ -1481,31 +1481,31 @@
   },
   "ICP3SUSDT": {
     "symbol": "ICP3SUSDT",
-    "netValue": "0.097377"
+    "netValue": "0.098278"
   },
   "COMP3SUSDT": {
     "symbol": "COMP3SUSDT",
-    "netValue": "0.090975"
+    "netValue": "0.090212"
   },
   "RAY3SUSDT": {
     "symbol": "RAY3SUSDT",
-    "netValue": "0.015001"
+    "netValue": "0.014662"
   },
   "VINU3SUSDT": {
     "symbol": "VINU3SUSDT",
-    "netValue": "0.055115"
+    "netValue": "0.056196"
   },
   "DUSK3SUSDT": {
     "symbol": "DUSK3SUSDT",
-    "netValue": "0.073873"
+    "netValue": "0.074222"
   },
   "TON3SUSDT": {
     "symbol": "TON3SUSDT",
-    "netValue": "0.570335"
+    "netValue": "0.575922"
   },
   "LAZIO3SUSDT": {
     "symbol": "LAZIO3SUSDT",
-    "netValue": "0.440812"
+    "netValue": "0.441794"
   },
   "MASK3LUSDT": {
     "symbol": "MASK3LUSDT",
@@ -1513,146 +1513,146 @@
   },
   "STEPN3LUSDT": {
     "symbol": "STEPN3LUSDT",
-    "netValue": "0.555296"
+    "netValue": "0.551663"
   },
   "PERP3LUSDT": {
     "symbol": "PERP3LUSDT",
-    "netValue": "0.633915"
+    "netValue": "0.626323"
   },
   "SHIB5SUSDT": {
     "symbol": "SHIB5SUSDT",
-    "netValue": "0.059086"
+    "netValue": "0.059749"
   },
   "LTC3SUSDT": {
     "symbol": "LTC3SUSDT",
-    "netValue": "0.246875"
+    "netValue": "0.248219"
   },
   "JST3LUSDT": {
     "symbol": "JST3LUSDT",
-    "netValue": "0.178015"
+    "netValue": "0.177802"
   },
   "FITFI3LUSDT": {
     "symbol": "FITFI3LUSDT",
-    "netValue": "0.065668"
+    "netValue": "0.06579"
   },
   "1INCH3SUSDT": {
     "symbol": "1INCH3SUSDT",
-    "netValue": "0.735067"
+    "netValue": "0.735966"
   },
   "CREAM3SUSDT": {
     "symbol": "CREAM3SUSDT",
-    "netValue": "0.868167"
+    "netValue": "0.876944"
   },
   "CVC3LUSDT": {
     "symbol": "CVC3LUSDT",
-    "netValue": "0.607912"
+    "netValue": "0.604425"
   },
   "THETA3SUSDT": {
     "symbol": "THETA3SUSDT",
-    "netValue": "0.065376"
+    "netValue": "0.064389"
   },
   "OCEAN3LUSDT": {
     "symbol": "OCEAN3LUSDT",
-    "netValue": "1.849749"
+    "netValue": "1.863578"
   },
   "TOMO3LUSDT": {
     "symbol": "TOMO3LUSDT",
-    "netValue": "0.353523"
+    "netValue": "0.350387"
   },
   "RSR3SUSDT": {
     "symbol": "RSR3SUSDT",
-    "netValue": "1.314868"
+    "netValue": "1.320831"
   },
   "OGN3SUSDT": {
     "symbol": "OGN3SUSDT",
-    "netValue": "0.172524"
+    "netValue": "0.170794"
   },
   "MAGIC3LUSDT": {
     "symbol": "MAGIC3LUSDT",
-    "netValue": "0.784261"
+    "netValue": "0.782213"
   },
   "GMX3SUSDT": {
     "symbol": "GMX3SUSDT",
-    "netValue": "0.460358"
+    "netValue": "0.458861"
   },
   "DASH3SUSDT": {
     "symbol": "DASH3SUSDT",
-    "netValue": "0.183525"
+    "netValue": "0.182271"
   },
   "BEL3LUSDT": {
     "symbol": "BEL3LUSDT",
-    "netValue": "0.338102"
+    "netValue": "0.338301"
   },
   "IOST3SUSDT": {
     "symbol": "IOST3SUSDT",
-    "netValue": "0.333437"
+    "netValue": "0.336393"
   },
   "TRX5LUSDT": {
     "symbol": "TRX5LUSDT",
-    "netValue": "0.168819"
+    "netValue": "0.168276"
   },
   "AUDIO3LUSDT": {
     "symbol": "AUDIO3LUSDT",
-    "netValue": "0.200674"
+    "netValue": "0.200996"
   },
   "IMX3LUSDT": {
     "symbol": "IMX3LUSDT",
-    "netValue": "0.707353"
+    "netValue": "0.70871"
   },
   "DEGO3LUSDT": {
     "symbol": "DEGO3LUSDT",
-    "netValue": "0.346084"
+    "netValue": "0.351092"
   },
   "AR3SUSDT": {
     "symbol": "AR3SUSDT",
-    "netValue": "0.390408"
+    "netValue": "0.39416"
   },
   "GLMR3LUSDT": {
     "symbol": "GLMR3LUSDT",
-    "netValue": "0.424194"
+    "netValue": "0.418163"
   },
   "CEEK3LUSDT": {
     "symbol": "CEEK3LUSDT",
-    "netValue": "0.204272"
+    "netValue": "0.205526"
   },
   "ETH2LUSDT": {
     "symbol": "ETH2LUSDT",
-    "netValue": "0.227095"
+    "netValue": "0.225882"
   },
   "QTUM3SUSDT": {
     "symbol": "QTUM3SUSDT",
-    "netValue": "0.274605"
+    "netValue": "0.275292"
   },
   "MAGIC3SUSDT": {
     "symbol": "MAGIC3SUSDT",
-    "netValue": "0.024678"
+    "netValue": "0.024747"
   },
   "YFI3LUSDT": {
     "symbol": "YFI3LUSDT",
-    "netValue": "0.074903"
+    "netValue": "0.074685"
   },
   "JASMY3SUSDT": {
     "symbol": "JASMY3SUSDT",
-    "netValue": "0.016977"
+    "netValue": "0.017144"
   },
   "KNC3LUSDT": {
     "symbol": "KNC3LUSDT",
-    "netValue": "0.64273"
+    "netValue": "0.637107"
   },
   "MANA3SUSDT": {
     "symbol": "MANA3SUSDT",
-    "netValue": "0.023191"
+    "netValue": "0.023412"
   },
   "BCH4LUSDT": {
     "symbol": "BCH4LUSDT",
-    "netValue": "1.13853"
+    "netValue": "1.133093"
   },
   "DOT2LUSDT": {
     "symbol": "DOT2LUSDT",
-    "netValue": "0.900605"
+    "netValue": "0.896792"
   },
   "DC3SUSDT": {
     "symbol": "DC3SUSDT",
-    "netValue": "0.044386"
+    "netValue": "0.043961"
   }
 }
