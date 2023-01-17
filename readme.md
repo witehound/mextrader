@@ -1,6 +1,8 @@
 Tasks
 
-# [] get all etf pairs
+# [x] get all etf pairs
+
+# [] load all etf pairs to a json file to know price at previuos rebalace
 
 # [] figure out how to track utc to refresh data
 
