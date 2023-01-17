@@ -1,6 +1,10 @@
 const getTime = () => {
-  const time = new Date().getUTCHours();
-  return time;
+  const hour = new Date().getUTCHours();
+  const minute = new Date().getUTCMinutes();
+  return {
+    hour,
+    minute,
+  };
 };
 
 module.exports = {

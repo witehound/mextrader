@@ -3,13 +3,17 @@ const {
   updatePriceFile,
   compareLatestPriceList,
 } = require("./utils/writeData.js");
-const { reblanceUtcTime, timeOut } = require("./constants.js");
+const {
+  reblanceUtcHour,
+  timeOut,
+  reblanceUtcLimit,
+} = require("./constants.js");
 
 const main = () => {
   const findOpp = () => {
     console.log("rounds");
-    const time = getTime();
-    if (time === reblanceUtcTime) {
+    const { hour, minute } = getTime();
+    if (hour === reblanceUtcHour && minute < reblanceUtcLimit) {
       updatePriceFile();
     }
     compareLatestPriceList();
