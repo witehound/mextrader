@@ -1,0 +1,1598 @@
+{
+  "ETC3SUSDT": {
+    "percentage": 0.929187777074093,
+    "direction": "up"
+  },
+  "OP3LUSDT": {
+    "percentage": 2.608623064401682,
+    "direction": "down"
+  },
+  "BTS3LUSDT": {
+    "percentage": 1.6806722689075584,
+    "direction": "down"
+  },
+  "BONE3LUSDT": {
+    "percentage": 1.6866156365576708,
+    "direction": "down"
+  },
+  "ICX3LUSDT": {
+    "percentage": 0.15652951699463022,
+    "direction": "down"
+  },
+  "ALPINE3LUSDT": {
+    "percentage": 0.769322328637076,
+    "direction": "up"
+  },
+  "REN3LUSDT": {
+    "percentage": 0.19327106428365048,
+    "direction": "down"
+  },
+  "ETC3LUSDT": {
+    "percentage": 0.8944584962060255,
+    "direction": "down"
+  },
+  "ARPA3SUSDT": {
+    "percentage": 0.900137924359388,
+    "direction": "down"
+  },
+  "MANA3LUSDT": {
+    "percentage": 1.3949310020711765,
+    "direction": "down"
+  },
+  "AXS3SUSDT": {
+    "percentage": 0.949460983087715,
+    "direction": "up"
+  },
+  "DOT5LUSDT": {
+    "percentage": 2.3098502604957325,
+    "direction": "down"
+  },
+  "FLOW3SUSDT": {
+    "percentage": 0.8499359927017145,
+    "direction": "up"
+  },
+  "RAY3LUSDT": {
+    "percentage": 2.9260760282914156,
+    "direction": "down"
+  },
+  "CSPR3LUSDT": {
+    "percentage": 0.22441280272606207,
+    "direction": "down"
+  },
+  "CSPR3SUSDT": {
+    "percentage": 0.26284774989920034,
+    "direction": "up"
+  },
+  "WAVES3LUSDT": {
+    "percentage": 0.48339963181812434,
+    "direction": "down"
+  },
+  "SAND3LUSDT": {
+    "percentage": 0.5629785317519966,
+    "direction": "down"
+  },
+  "UNFI3SUSDT": {
+    "percentage": 0.2532823322650732,
+    "direction": "up"
+  },
+  "RUNE3LUSDT": {
+    "percentage": 0.6912827487638125,
+    "direction": "down"
+  },
+  "BTC4SUSDT": {
+    "percentage": 0.22846006452562814,
+    "direction": "down"
+  },
+  "OP3SUSDT": {
+    "percentage": 2.5715140037874966,
+    "direction": "up"
+  },
+  "CEL3SUSDT": {
+    "percentage": 1.4861906365779787,
+    "direction": "up"
+  },
+  "EGLD3SUSDT": {
+    "percentage": 1.563989708360004,
+    "direction": "up"
+  },
+  "LDO3LUSDT": {
+    "percentage": 2.868936622211739,
+    "direction": "down"
+  },
+  "IOTA3LUSDT": {
+    "percentage": 0.2722297136511367,
+    "direction": "down"
+  },
+  "SUSHI3LUSDT": {
+    "percentage": 0.9478806042431812,
+    "direction": "down"
+  },
+  "GTC3LUSDT": {
+    "percentage": 2.0517661486824474,
+    "direction": "down"
+  },
+  "KSM3LUSDT": {
+    "percentage": 1.8502219529203372,
+    "direction": "down"
+  },
+  "ICP3LUSDT": {
+    "percentage": 0.060066839476414786,
+    "direction": "down"
+  },
+  "VET3LUSDT": {
+    "percentage": 0.13810383088780967,
+    "direction": "up"
+  },
+  "IOST3LUSDT": {
+    "percentage": 0.7337737195557159,
+    "direction": "down"
+  },
+  "XTZ5LUSDT": {
+    "percentage": 0.5092059067885197,
+    "direction": "down"
+  },
+  "ANT3SUSDT": {
+    "percentage": 0.5252634565766937,
+    "direction": "down"
+  },
+  "AVAX3LUSDT": {
+    "percentage": 1.8612332973690808,
+    "direction": "down"
+  },
+  "ACH3SUSDT": {
+    "percentage": 0.7475183479028387,
+    "direction": "down"
+  },
+  "DGB3LUSDT": {
+    "percentage": 0.5855610817531787,
+    "direction": "down"
+  },
+  "DOGE5LUSDT": {
+    "percentage": 0.6494302168851762,
+    "direction": "down"
+  },
+  "ETH2SUSDT": {
+    "percentage": 0.2008329186671526,
+    "direction": "down"
+  },
+  "CELR3SUSDT": {
+    "percentage": 0.2001810683029924,
+    "direction": "down"
+  },
+  "LDO3SUSDT": {
+    "percentage": 2.9097239492663496,
+    "direction": "up"
+  },
+  "OSMO3LUSDT": {
+    "percentage": 0.3602157177555505,
+    "direction": "down"
+  },
+  "KAVA3LUSDT": {
+    "percentage": 1.560076824680489,
+    "direction": "up"
+  },
+  "REEF3LUSDT": {
+    "percentage": 1.5128249737146675,
+    "direction": "up"
+  },
+  "XEC3LUSDT": {
+    "percentage": 0.38914662434378783,
+    "direction": "down"
+  },
+  "C983LUSDT": {
+    "percentage": 0.9486617422218976,
+    "direction": "down"
+  },
+  "HNT3SUSDT": {
+    "percentage": 4.552024753257907,
+    "direction": "up"
+  },
+  "SHIB3SUSDT": {
+    "percentage": 0.1949547523621324,
+    "direction": "down"
+  },
+  "IOTA3SUSDT": {
+    "percentage": 0.2758576863194921,
+    "direction": "up"
+  },
+  "XLM3LUSDT": {
+    "percentage": 1.1300542164739757,
+    "direction": "down"
+  },
+  "BAKE3SUSDT": {
+    "percentage": 0.867175919469874,
+    "direction": "up"
+  },
+  "ACH3LUSDT": {
+    "percentage": 0.7548881066187887,
+    "direction": "up"
+  },
+  "SAND3SUSDT": {
+    "percentage": 0.5201290647468686,
+    "direction": "up"
+  },
+  "NKN3LUSDT": {
+    "percentage": 0.5575924487601636,
+    "direction": "up"
+  },
+  "PORTO3SUSDT": {
+    "percentage": 0.44841944464975153,
+    "direction": "down"
+  },
+  "SPELL3SUSDT": {
+    "percentage": 0.3332020801368595,
+    "direction": "down"
+  },
+  "BAT3SUSDT": {
+    "percentage": 1.0527016679428698,
+    "direction": "up"
+  },
+  "XTZ3SUSDT": {
+    "percentage": 0.27836351101482787,
+    "direction": "up"
+  },
+  "KLAY3SUSDT": {
+    "percentage": 3.120270968482689,
+    "direction": "down"
+  },
+  "LTC2SUSDT": {
+    "percentage": 0.9266215516657187,
+    "direction": "up"
+  },
+  "RSR3LUSDT": {
+    "percentage": 0.3766602788607777,
+    "direction": "down"
+  },
+  "BCH5SUSDT": {
+    "percentage": 1.4084002293578015,
+    "direction": "down"
+  },
+  "ROSE3SUSDT": {
+    "percentage": 1.126955898239044,
+    "direction": "up"
+  },
+  "STORJ3LUSDT": {
+    "percentage": 0.17086330935252247,
+    "direction": "down"
+  },
+  "CHR3SUSDT": {
+    "percentage": 0.20341609893126453,
+    "direction": "up"
+  },
+  "QTUM3LUSDT": {
+    "percentage": 0.6239189056492559,
+    "direction": "down"
+  },
+  "ALICE3LUSDT": {
+    "percentage": 1.4882985893234844,
+    "direction": "down"
+  },
+  "ENJ3SUSDT": {
+    "percentage": 0.7260794294721012,
+    "direction": "up"
+  },
+  "ETHW3LUSDT": {
+    "percentage": 2.7173002657539613,
+    "direction": "up"
+  },
+  "XRP4LUSDT": {
+    "percentage": 0.29562175044648825,
+    "direction": "down"
+  },
+  "REN3SUSDT": {
+    "percentage": 0.18467483024121442,
+    "direction": "up"
+  },
+  "CTK3LUSDT": {
+    "percentage": 0.7620425589336679,
+    "direction": "down"
+  },
+  "DYDX3LUSDT": {
+    "percentage": 0.2190721649484468,
+    "direction": "down"
+  },
+  "APE3LUSDT": {
+    "percentage": 0.4809261427995483,
+    "direction": "down"
+  },
+  "NKN3SUSDT": {
+    "percentage": 0.5848110527674983,
+    "direction": "down"
+  },
+  "CTSI3LUSDT": {
+    "percentage": 0.2296713668735515,
+    "direction": "down"
+  },
+  "FTM3LUSDT": {
+    "percentage": 1.734079173838204,
+    "direction": "down"
+  },
+  "RAD3LUSDT": {
+    "percentage": 0.3496251677742539,
+    "direction": "down"
+  },
+  "BTC3LUSDT": {
+    "percentage": 0.16418990371237127,
+    "direction": "up"
+  },
+  "DEGO3SUSDT": {
+    "percentage": 3.652176371386854,
+    "direction": "up"
+  },
+  "JASMY3LUSDT": {
+    "percentage": 0.06170934896637146,
+    "direction": "up"
+  },
+  "SOL3LUSDT": {
+    "percentage": 0.012853956372147046,
+    "direction": "up"
+  },
+  "ATOM4LUSDT": {
+    "percentage": 0.8246104322039023,
+    "direction": "down"
+  },
+  "NEO3SUSDT": {
+    "percentage": 0.19806441809406983,
+    "direction": "down"
+  },
+  "ETH5SUSDT": {
+    "percentage": 0.5167724388032616,
+    "direction": "down"
+  },
+  "MASK3SUSDT": {
+    "percentage": 0.9699256637721292,
+    "direction": "up"
+  },
+  "ATOM3LUSDT": {
+    "percentage": 0.6150195024443583,
+    "direction": "down"
+  },
+  "XEM3SUSDT": {
+    "percentage": 0.8225926384930036,
+    "direction": "up"
+  },
+  "ZIL3LUSDT": {
+    "percentage": 0.5396796164836168,
+    "direction": "down"
+  },
+  "ALGO3LUSDT": {
+    "percentage": 0.5141617380450157,
+    "direction": "down"
+  },
+  "SKL3LUSDT": {
+    "percentage": 1.097080523265239,
+    "direction": "up"
+  },
+  "DENT3LUSDT": {
+    "percentage": 0.6622891991445427,
+    "direction": "up"
+  },
+  "CTSI3SUSDT": {
+    "percentage": 0.22860227173506165,
+    "direction": "up"
+  },
+  "FLR3LUSDT": {
+    "percentage": 1.432055791834687,
+    "direction": "down"
+  },
+  "XRP5SUSDT": {
+    "percentage": 0.4126389791006016,
+    "direction": "up"
+  },
+  "CRO3SUSDT": {
+    "percentage": 0.3934451116658867,
+    "direction": "down"
+  },
+  "VET3SUSDT": {
+    "percentage": 0.14194399581447498,
+    "direction": "down"
+  },
+  "COMP3LUSDT": {
+    "percentage": 0.06080413468116469,
+    "direction": "up"
+  },
+  "DOGE3LUSDT": {
+    "percentage": 0.39006094702297206,
+    "direction": "down"
+  },
+  "SFP3SUSDT": {
+    "percentage": 0.5714687873882801,
+    "direction": "up"
+  },
+  "APE3SUSDT": {
+    "percentage": 0.4810965370126558,
+    "direction": "up"
+  },
+  "BAT3LUSDT": {
+    "percentage": 1.0227356701234056,
+    "direction": "down"
+  },
+  "XEM3LUSDT": {
+    "percentage": 0.7958558250237247,
+    "direction": "down"
+  },
+  "LRC3LUSDT": {
+    "percentage": 1.9665018025399075,
+    "direction": "down"
+  },
+  "WOO3LUSDT": {
+    "percentage": 0.49368534496667826,
+    "direction": "down"
+  },
+  "XRP3LUSDT": {
+    "percentage": 0.22357074417119327,
+    "direction": "down"
+  },
+  "LTC5SUSDT": {
+    "percentage": 2.4094004103137405,
+    "direction": "up"
+  },
+  "VINU3LUSDT": {
+    "percentage": 7.142835699468336,
+    "direction": "down"
+  },
+  "SXP3SUSDT": {
+    "percentage": 0.3407252744731442,
+    "direction": "up"
+  },
+  "BEL3SUSDT": {
+    "percentage": 0.2397435753584008,
+    "direction": "up"
+  },
+  "SNX3LUSDT": {
+    "percentage": 0.13358748057855893,
+    "direction": "up"
+  },
+  "ONT3LUSDT": {
+    "percentage": 0.15020901379868612,
+    "direction": "down"
+  },
+  "LIT3LUSDT": {
+    "percentage": 0.9608297357060236,
+    "direction": "down"
+  },
+  "USTC3LUSDT": {
+    "percentage": 2.531193316110587,
+    "direction": "down"
+  },
+  "APT3SUSDT": {
+    "percentage": 4.384192662033292,
+    "direction": "up"
+  },
+  "THETA3LUSDT": {
+    "percentage": 0.4862710086964308,
+    "direction": "up"
+  },
+  "GALA3LUSDT": {
+    "percentage": 0.6279712318476998,
+    "direction": "down"
+  },
+  "OCEAN3SUSDT": {
+    "percentage": 3.428036747192927,
+    "direction": "down"
+  },
+  "LINA3LUSDT": {
+    "percentage": 1.357183227221524,
+    "direction": "down"
+  },
+  "DAR3SUSDT": {
+    "percentage": 0.8300878414873372,
+    "direction": "up"
+  },
+  "CTK3SUSDT": {
+    "percentage": 0.7841520578811132,
+    "direction": "up"
+  },
+  "DOGE4LUSDT": {
+    "percentage": 0.5200554439274913,
+    "direction": "down"
+  },
+  "RLC3SUSDT": {
+    "percentage": 2.3373168362822447,
+    "direction": "up"
+  },
+  "ENS3SUSDT": {
+    "percentage": 1.0163727799889135,
+    "direction": "up"
+  },
+  "ZRX3SUSDT": {
+    "percentage": 0.8719007208583269,
+    "direction": "up"
+  },
+  "DAR3LUSDT": {
+    "percentage": 0.7113292190249647,
+    "direction": "down"
+  },
+  "GRT3SUSDT": {
+    "percentage": 1.7751863414519058,
+    "direction": "up"
+  },
+  "BAND3SUSDT": {
+    "percentage": 0.68971927867634,
+    "direction": "up"
+  },
+  "DASH3LUSDT": {
+    "percentage": 0.6491676045818194,
+    "direction": "up"
+  },
+  "ROSE3LUSDT": {
+    "percentage": 1.2777834681962674,
+    "direction": "down"
+  },
+  "APT3LUSDT": {
+    "percentage": 4.850721841029738,
+    "direction": "down"
+  },
+  "PSG3LUSDT": {
+    "percentage": 0.9303978093334336,
+    "direction": "up"
+  },
+  "TRX5SUSDT": {
+    "percentage": 0.40187492107355854,
+    "direction": "up"
+  },
+  "RVN3LUSDT": {
+    "percentage": 1.1852742748156893,
+    "direction": "down"
+  },
+  "HT3LUSDT": {
+    "percentage": 1.6116598410021585,
+    "direction": "down"
+  },
+  "FLM3LUSDT": {
+    "percentage": 1.5869033431600152,
+    "direction": "down"
+  },
+  "COTI3LUSDT": {
+    "percentage": 1.1557923891466104,
+    "direction": "down"
+  },
+  "LTC4LUSDT": {
+    "percentage": 1.7207235629278541,
+    "direction": "down"
+  },
+  "LTC4SUSDT": {
+    "percentage": 1.9017115403863514,
+    "direction": "up"
+  },
+  "BAND3LUSDT": {
+    "percentage": 0.7124834358946378,
+    "direction": "down"
+  },
+  "LUNA3LUSDT": {
+    "percentage": 0.5753098742727596,
+    "direction": "down"
+  },
+  "GLMR3SUSDT": {
+    "percentage": 0.7652705466716324,
+    "direction": "up"
+  },
+  "ONE3LUSDT": {
+    "percentage": 0.18557167579566697,
+    "direction": "up"
+  },
+  "AUDIO3SUSDT": {
+    "percentage": 1.4383982105165818,
+    "direction": "up"
+  },
+  "ALPHA3LUSDT": {
+    "percentage": 0.4564511152652403,
+    "direction": "up"
+  },
+  "PSG3SUSDT": {
+    "percentage": 0.8870214752567692,
+    "direction": "down"
+  },
+  "LTC3LUSDT": {
+    "percentage": 1.3060077376049095,
+    "direction": "down"
+  },
+  "CEL3LUSDT": {
+    "percentage": 1.5198047090322109,
+    "direction": "down"
+  },
+  "BTC5LUSDT": {
+    "percentage": 0.270089669770374,
+    "direction": "up"
+  },
+  "DEFI3LUSDT": {
+    "percentage": 0.1528752699784141,
+    "direction": "up"
+  },
+  "LOOKS3LUSDT": {
+    "percentage": 1.1073491955022685,
+    "direction": "down"
+  },
+  "BNX3LUSDT": {
+    "percentage": 0.2541514077521553,
+    "direction": "down"
+  },
+  "SPELL3LUSDT": {
+    "percentage": 0.33920363063009645,
+    "direction": "up"
+  },
+  "BAL3LUSDT": {
+    "percentage": 0.0900461740531572,
+    "direction": "down"
+  },
+  "AAVE3SUSDT": {
+    "percentage": 0.9587043854956607,
+    "direction": "down"
+  },
+  "UNI3LUSDT": {
+    "percentage": 0.3761577939200345,
+    "direction": "down"
+  },
+  "BONK3LUSDT": {
+    "percentage": 3.703703703703693,
+    "direction": "up"
+  },
+  "SWEAT3LUSDT": {
+    "percentage": 2.065440552074047,
+    "direction": "down"
+  },
+  "SHIB5LUSDT": {
+    "percentage": 0.33395733312091874,
+    "direction": "up"
+  },
+  "SXP3LUSDT": {
+    "percentage": 0.33867569230242145,
+    "direction": "down"
+  },
+  "MTL3SUSDT": {
+    "percentage": 0.45114524915522297,
+    "direction": "up"
+  },
+  "ZEC3LUSDT": {
+    "percentage": 1.9902487041850432,
+    "direction": "up"
+  },
+  "ETH3SUSDT": {
+    "percentage": 0.3033838973162169,
+    "direction": "down"
+  },
+  "ENJ3LUSDT": {
+    "percentage": 0.7528158871694123,
+    "direction": "down"
+  },
+  "ENS3LUSDT": {
+    "percentage": 1.0180044842784297,
+    "direction": "down"
+  },
+  "QNT3SUSDT": {
+    "percentage": 1.4079699633074512,
+    "direction": "up"
+  },
+  "NEAR3LUSDT": {
+    "percentage": 1.2260420133518701,
+    "direction": "down"
+  },
+  "XTZ5SUSDT": {
+    "percentage": 0.4540654185140026,
+    "direction": "up"
+  },
+  "SWEAT3SUSDT": {
+    "percentage": 2.013533128838014,
+    "direction": "up"
+  },
+  "ZEN3LUSDT": {
+    "percentage": 0.7331969332214004,
+    "direction": "down"
+  },
+  "DOT5SUSDT": {
+    "percentage": 2.528445006321114,
+    "direction": "up"
+  },
+  "RACA3LUSDT": {
+    "percentage": 0.8641837077450837,
+    "direction": "up"
+  },
+  "CHR3LUSDT": {
+    "percentage": 0.21063610969623311,
+    "direction": "down"
+  },
+  "DYDX3SUSDT": {
+    "percentage": 0.19070078900632004,
+    "direction": "up"
+  },
+  "FLM3SUSDT": {
+    "percentage": 1.6182975509763708,
+    "direction": "up"
+  },
+  "ZIL3SUSDT": {
+    "percentage": 0.5589417714952676,
+    "direction": "up"
+  },
+  "XEC3SUSDT": {
+    "percentage": 0.4055867284703551,
+    "direction": "up"
+  },
+  "DOGE4SUSDT": {
+    "percentage": 0.5324769068217818,
+    "direction": "up"
+  },
+  "HNT3LUSDT": {
+    "percentage": 3.7650927956026354,
+    "direction": "down"
+  },
+  "AXS3LUSDT": {
+    "percentage": 0.9358918265724933,
+    "direction": "down"
+  },
+  "CRV3LUSDT": {
+    "percentage": 3.521889755353729,
+    "direction": "down"
+  },
+  "OMG3SUSDT": {
+    "percentage": 0.4577953617513869,
+    "direction": "up"
+  },
+  "IOTX3SUSDT": {
+    "percentage": 0.5943428266459542,
+    "direction": "up"
+  },
+  "FLR3SUSDT": {
+    "percentage": 1.4117137378937272,
+    "direction": "up"
+  },
+  "CELO3SUSDT": {
+    "percentage": 0.8614861936870525,
+    "direction": "up"
+  },
+  "XRP3SUSDT": {
+    "percentage": 0.24212539663235302,
+    "direction": "up"
+  },
+  "BTS3SUSDT": {
+    "percentage": 1.7194078692178003,
+    "direction": "up"
+  },
+  "YFII3SUSDT": {
+    "percentage": 0.4092744897561459,
+    "direction": "up"
+  },
+  "LIT3SUSDT": {
+    "percentage": 0.9856070087609541,
+    "direction": "up"
+  },
+  "TRX3LUSDT": {
+    "percentage": 0.2420366532126191,
+    "direction": "down"
+  },
+  "MKR3LUSDT": {
+    "percentage": 0.70771946913431,
+    "direction": "up"
+  },
+  "STEPN3SUSDT": {
+    "percentage": 0.5121989365029683,
+    "direction": "up"
+  },
+  "MATIC3LUSDT": {
+    "percentage": 0.2666125407265893,
+    "direction": "down"
+  },
+  "ETH3LUSDT": {
+    "percentage": 0.29267455254298197,
+    "direction": "up"
+  },
+  "ICX3SUSDT": {
+    "percentage": 0.14895994041602514,
+    "direction": "up"
+  },
+  "ANC3LUSDT": {
+    "percentage": 0.7303189775534331,
+    "direction": "down"
+  },
+  "LINK3SUSDT": {
+    "percentage": 3.440378887580527,
+    "direction": "down"
+  },
+  "STG3LUSDT": {
+    "percentage": 0.06605754375810836,
+    "direction": "up"
+  },
+  "IOTX3LUSDT": {
+    "percentage": 0.6370260939718235,
+    "direction": "down"
+  },
+  "RAD3SUSDT": {
+    "percentage": 0.34382406031656676,
+    "direction": "up"
+  },
+  "BONE3SUSDT": {
+    "percentage": 1.7469238948807482,
+    "direction": "up"
+  },
+  "RACA3SUSDT": {
+    "percentage": 0.8595448433592497,
+    "direction": "down"
+  },
+  "BTC5SUSDT": {
+    "percentage": 0.2882649497758532,
+    "direction": "down"
+  },
+  "BSV3LUSDT": {
+    "percentage": 0.7288480562156784,
+    "direction": "down"
+  },
+  "YFI3SUSDT": {
+    "percentage": 0.169081987627306,
+    "direction": "down"
+  },
+  "YFII3LUSDT": {
+    "percentage": 0.42647859588401127,
+    "direction": "down"
+  },
+  "FOOTBALL3LUSDT": {
+    "percentage": 0.5296133003917682,
+    "direction": "down"
+  },
+  "XRP5LUSDT": {
+    "percentage": 0.3648632743536266,
+    "direction": "down"
+  },
+  "BNX3SUSDT": {
+    "percentage": 0.2733711634842339,
+    "direction": "up"
+  },
+  "CVX3LUSDT": {
+    "percentage": 0.2996937860084341,
+    "direction": "down"
+  },
+  "BSV4LUSDT": {
+    "percentage": 0.9671837797068965,
+    "direction": "down"
+  },
+  "AVAX3SUSDT": {
+    "percentage": 1.7583519593428927,
+    "direction": "up"
+  },
+  "SNX3SUSDT": {
+    "percentage": 0.1281051223023281,
+    "direction": "down"
+  },
+  "LUNC3SUSDT": {
+    "percentage": 1.1731824298678446,
+    "direction": "down"
+  },
+  "TOMO3SUSDT": {
+    "percentage": 0.3531366199246336,
+    "direction": "up"
+  },
+  "MKR3SUSDT": {
+    "percentage": 0.639410312774902,
+    "direction": "down"
+  },
+  "GAL3LUSDT": {
+    "percentage": 0.46985936236803055,
+    "direction": "down"
+  },
+  "RLC3LUSDT": {
+    "percentage": 1.8852761990076534,
+    "direction": "down"
+  },
+  "ALPINE3SUSDT": {
+    "percentage": 0.7541916447157604,
+    "direction": "down"
+  },
+  "LUNC3LUSDT": {
+    "percentage": 1.1999443100537803,
+    "direction": "up"
+  },
+  "CVX3SUSDT": {
+    "percentage": 0.30384875084401586,
+    "direction": "up"
+  },
+  "SLP3LUSDT": {
+    "percentage": 1.0415817871984634,
+    "direction": "down"
+  },
+  "ETH4LUSDT": {
+    "percentage": 0.38817445587243643,
+    "direction": "up"
+  },
+  "TRB3LUSDT": {
+    "percentage": 1.56659555013716,
+    "direction": "down"
+  },
+  "ALGO3SUSDT": {
+    "percentage": 0.5165233336265286,
+    "direction": "up"
+  },
+  "SUSHI3SUSDT": {
+    "percentage": 0.9620652333676271,
+    "direction": "up"
+  },
+  "XMR3LUSDT": {
+    "percentage": 2.62521643986955,
+    "direction": "up"
+  },
+  "1INCH3LUSDT": {
+    "percentage": 0.6224322950301531,
+    "direction": "down"
+  },
+  "SNFT3SUSDT": {
+    "percentage": 1.2731099372730263,
+    "direction": "up"
+  },
+  "IMX3SUSDT": {
+    "percentage": 0.9031033239293268,
+    "direction": "up"
+  },
+  "MTL3LUSDT": {
+    "percentage": 0.4723126636226037,
+    "direction": "down"
+  },
+  "STMX3LUSDT": {
+    "percentage": 0.5620518743082723,
+    "direction": "down"
+  },
+  "ZEN3SUSDT": {
+    "percentage": 0.8086013861738061,
+    "direction": "up"
+  },
+  "BSV4SUSDT": {
+    "percentage": 1.0052605381559843,
+    "direction": "up"
+  },
+  "EGLD3LUSDT": {
+    "percentage": 1.4971598683727447,
+    "direction": "down"
+  },
+  "TRX3SUSDT": {
+    "percentage": 0.241519674355492,
+    "direction": "up"
+  },
+  "CELR3LUSDT": {
+    "percentage": 0.22751296119191633,
+    "direction": "up"
+  },
+  "SFP3LUSDT": {
+    "percentage": 0.6029368010221006,
+    "direction": "down"
+  },
+  "API33SUSDT": {
+    "percentage": 0.21714166405679075,
+    "direction": "up"
+  },
+  "BNB3LUSDT": {
+    "percentage": 0.1490692677732791,
+    "direction": "down"
+  },
+  "DOT3LUSDT": {
+    "percentage": 1.4101834582029307,
+    "direction": "down"
+  },
+  "MINA3SUSDT": {
+    "percentage": 0.5345701211353151,
+    "direction": "up"
+  },
+  "NEAR3SUSDT": {
+    "percentage": 1.207268323725857,
+    "direction": "up"
+  },
+  "GALA3SUSDT": {
+    "percentage": 0.536303630363036,
+    "direction": "up"
+  },
+  "XTZ3LUSDT": {
+    "percentage": 0.298274568642159,
+    "direction": "down"
+  },
+  "BONK3SUSDT": {
+    "percentage": 3.4806431956983923,
+    "direction": "down"
+  },
+  "BTC2SUSDT": {
+    "percentage": 0.11331526026649989,
+    "direction": "down"
+  },
+  "KLAY3LUSDT": {
+    "percentage": 3.1799145715358974,
+    "direction": "up"
+  },
+  "REEF3SUSDT": {
+    "percentage": 2.211350591225909,
+    "direction": "down"
+  },
+  "UNFI3LUSDT": {
+    "percentage": 0.2606646115331534,
+    "direction": "down"
+  },
+  "ANKR3LUSDT": {
+    "percentage": 0.5110124294289604,
+    "direction": "down"
+  },
+  "CHZ3SUSDT": {
+    "percentage": 0.199909071459124,
+    "direction": "down"
+  },
+  "ALPHA3SUSDT": {
+    "percentage": 0.47341982581042474,
+    "direction": "down"
+  },
+  "CREAM3LUSDT": {
+    "percentage": 0.21214152578398013,
+    "direction": "up"
+  },
+  "CRO3LUSDT": {
+    "percentage": 0.37317158200199163,
+    "direction": "up"
+  },
+  "WOO3SUSDT": {
+    "percentage": 0.45199631706704807,
+    "direction": "up"
+  },
+  "DENT3SUSDT": {
+    "percentage": 0.6863140896245459,
+    "direction": "down"
+  },
+  "KSM3SUSDT": {
+    "percentage": 1.6707470880629158,
+    "direction": "up"
+  },
+  "BAKE3LUSDT": {
+    "percentage": 0.9081209373361961,
+    "direction": "down"
+  },
+  "GAL3SUSDT": {
+    "percentage": 0.5060544125419177,
+    "direction": "up"
+  },
+  "BCH5LUSDT": {
+    "percentage": 1.3544896974708904,
+    "direction": "up"
+  },
+  "GRT3LUSDT": {
+    "percentage": 2.0216535366197466,
+    "direction": "down"
+  },
+  "ATOM3SUSDT": {
+    "percentage": 0.596732740539425,
+    "direction": "up"
+  },
+  "SRM3SUSDT": {
+    "percentage": 4.289693593314765,
+    "direction": "up"
+  },
+  "BNB3SUSDT": {
+    "percentage": 0.14844832078551332,
+    "direction": "up"
+  },
+  "FOOTBALL3SUSDT": {
+    "percentage": 0.5325424092366511,
+    "direction": "up"
+  },
+  "DC3LUSDT": {
+    "percentage": 1.9260945164619272,
+    "direction": "down"
+  },
+  "GTC3SUSDT": {
+    "percentage": 1.7025773381223224,
+    "direction": "up"
+  },
+  "PEOPLE3SUSDT": {
+    "percentage": 1.222342408222764,
+    "direction": "down"
+  },
+  "GMX3LUSDT": {
+    "percentage": 2.642329184484865,
+    "direction": "up"
+  },
+  "ETH5LUSDT": {
+    "percentage": 0.48256182211164195,
+    "direction": "up"
+  },
+  "USTC3SUSDT": {
+    "percentage": 2.397944134987355,
+    "direction": "up"
+  },
+  "FITFI3SUSDT": {
+    "percentage": 1.098476866109068,
+    "direction": "up"
+  },
+  "AR3LUSDT": {
+    "percentage": 1.1654636498628979,
+    "direction": "down"
+  },
+  "ONT3SUSDT": {
+    "percentage": 0.152013613159382,
+    "direction": "up"
+  },
+  "ADA3LUSDT": {
+    "percentage": 0.6846548839356025,
+    "direction": "down"
+  },
+  "STMX3SUSDT": {
+    "percentage": 0.5952895652737874,
+    "direction": "up"
+  },
+  "LTC5LUSDT": {
+    "percentage": 2.1255021755592804,
+    "direction": "down"
+  },
+  "BLZ3LUSDT": {
+    "percentage": 0.046452337740905465,
+    "direction": "up"
+  },
+  "CHZ3LUSDT": {
+    "percentage": 0.19698587872315115,
+    "direction": "up"
+  },
+  "DOT2SUSDT": {
+    "percentage": 0.9832974943252124,
+    "direction": "up"
+  },
+  "OMG3LUSDT": {
+    "percentage": 0.47103042904553755,
+    "direction": "down"
+  },
+  "QNT3LUSDT": {
+    "percentage": 1.4676861999715178,
+    "direction": "down"
+  },
+  "COTI3SUSDT": {
+    "percentage": 1.151368992143793,
+    "direction": "up"
+  },
+  "OSMO3SUSDT": {
+    "percentage": 0.35639005990682165,
+    "direction": "up"
+  },
+  "FILECOIN3LUSDT": {
+    "percentage": 0.18916410878721165,
+    "direction": "down"
+  },
+  "ETHW3SUSDT": {
+    "percentage": 4.711686244373705,
+    "direction": "down"
+  },
+  "AAVE3LUSDT": {
+    "percentage": 1.1838323353293285,
+    "direction": "up"
+  },
+  "HT3SUSDT": {
+    "percentage": 1.4501036480229366,
+    "direction": "up"
+  },
+  "ZRX3LUSDT": {
+    "percentage": 0.8475604004689206,
+    "direction": "down"
+  },
+  "ALICE3SUSDT": {
+    "percentage": 1.2360510609866624,
+    "direction": "up"
+  },
+  "MATIC3SUSDT": {
+    "percentage": 0.2664510556974573,
+    "direction": "up"
+  },
+  "FLOW3LUSDT": {
+    "percentage": 0.8510247219924731,
+    "direction": "down"
+  },
+  "NEO3LUSDT": {
+    "percentage": 0.19463011455472673,
+    "direction": "up"
+  },
+  "DEFI3SUSDT": {
+    "percentage": 0.1494390708603001,
+    "direction": "down"
+  },
+  "PEOPLE3LUSDT": {
+    "percentage": 1.2789049281282823,
+    "direction": "up"
+  },
+  "BTC2LUSDT": {
+    "percentage": 0.11002159173737398,
+    "direction": "up"
+  },
+  "PERP3SUSDT": {
+    "percentage": 0.6284916201117402,
+    "direction": "up"
+  },
+  "TON3LUSDT": {
+    "percentage": 0.8498631277902599,
+    "direction": "down"
+  },
+  "SKL3SUSDT": {
+    "percentage": 1.1521937519012195,
+    "direction": "down"
+  },
+  "CVC3SUSDT": {
+    "percentage": 2.294782186570652,
+    "direction": "down"
+  },
+  "STG3SUSDT": {
+    "percentage": 0.0654252463225029,
+    "direction": "down"
+  },
+  "BAL3SUSDT": {
+    "percentage": 0.08663807852758856,
+    "direction": "up"
+  },
+  "BSV3SUSDT": {
+    "percentage": 0.7500829737802833,
+    "direction": "up"
+  },
+  "LINK3LUSDT": {
+    "percentage": 3.09421692674632,
+    "direction": "up"
+  },
+  "MINA3LUSDT": {
+    "percentage": 0.5349212550909527,
+    "direction": "down"
+  },
+  "XLM3SUSDT": {
+    "percentage": 1.1308983666061787,
+    "direction": "up"
+  },
+  "LINA3SUSDT": {
+    "percentage": 1.4218935713658893,
+    "direction": "up"
+  },
+  "ARPA3LUSDT": {
+    "percentage": 0.8692215585765948,
+    "direction": "up"
+  },
+  "SLP3SUSDT": {
+    "percentage": 1.0642039311719247,
+    "direction": "up"
+  },
+  "RVN3SUSDT": {
+    "percentage": 1.257125235500176,
+    "direction": "up"
+  },
+  "BCH3SUSDT": {
+    "percentage": 0.8383567521184218,
+    "direction": "down"
+  },
+  "CEEK3SUSDT": {
+    "percentage": 0.5859001690803441,
+    "direction": "up"
+  },
+  "SNFT3LUSDT": {
+    "percentage": 1.2034052346983446,
+    "direction": "down"
+  },
+  "CRV3SUSDT": {
+    "percentage": 3.544557146563542,
+    "direction": "up"
+  },
+  "DUSK3LUSDT": {
+    "percentage": 1.0911637025626693,
+    "direction": "up"
+  },
+  "TRB3SUSDT": {
+    "percentage": 1.5606221122259158,
+    "direction": "up"
+  },
+  "BCH4SUSDT": {
+    "percentage": 1.1221899033721094,
+    "direction": "down"
+  },
+  "BTC3SUSDT": {
+    "percentage": 0.17143045527972825,
+    "direction": "down"
+  },
+  "LUNA3SUSDT": {
+    "percentage": 0.5780043087593872,
+    "direction": "up"
+  },
+  "PORTO3LUSDT": {
+    "percentage": 0.4433987105761511,
+    "direction": "up"
+  },
+  "KNC3SUSDT": {
+    "percentage": 0.3334262282028843,
+    "direction": "down"
+  },
+  "ETH4SUSDT": {
+    "percentage": 0.4051477597712162,
+    "direction": "down"
+  },
+  "API33LUSDT": {
+    "percentage": 0.211237793401708,
+    "direction": "down"
+  },
+  "CELO3LUSDT": {
+    "percentage": 0.8621035556039491,
+    "direction": "down"
+  },
+  "XRP4SUSDT": {
+    "percentage": 0.3266138508171492,
+    "direction": "up"
+  },
+  "DOGE3SUSDT": {
+    "percentage": 0.397985062104036,
+    "direction": "up"
+  },
+  "KAVA3SUSDT": {
+    "percentage": 1.4709867224093154,
+    "direction": "down"
+  },
+  "SHIB3LUSDT": {
+    "percentage": 0.19926847494067748,
+    "direction": "up"
+  },
+  "FILECOIN3SUSDT": {
+    "percentage": 0.19265595499556415,
+    "direction": "up"
+  },
+  "FTM3SUSDT": {
+    "percentage": 1.6858329821181437,
+    "direction": "up"
+  },
+  "XMR3SUSDT": {
+    "percentage": 2.421352778946384,
+    "direction": "down"
+  },
+  "BLZ3SUSDT": {
+    "percentage": 0.045789496102569924,
+    "direction": "down"
+  },
+  "BCH3LUSDT": {
+    "percentage": 0.81897393637984,
+    "direction": "up"
+  },
+  "LAZIO3LUSDT": {
+    "percentage": 0.9843470541390941,
+    "direction": "down"
+  },
+  "DOGE5SUSDT": {
+    "percentage": 0.6666369060905077,
+    "direction": "up"
+  },
+  "OGN3LUSDT": {
+    "percentage": 0.7670781484149233,
+    "direction": "down"
+  },
+  "LRC3SUSDT": {
+    "percentage": 1.7832265254945734,
+    "direction": "up"
+  },
+  "C983SUSDT": {
+    "percentage": 0.9592502305332153,
+    "direction": "up"
+  },
+  "ATOM4SUSDT": {
+    "percentage": 0.7934845840605028,
+    "direction": "up"
+  },
+  "LOOKS3SUSDT": {
+    "percentage": 1.2169720347155248,
+    "direction": "up"
+  },
+  "LTC2LUSDT": {
+    "percentage": 0.8812476432980687,
+    "direction": "down"
+  },
+  "STORJ3SUSDT": {
+    "percentage": 0.18260401203347335,
+    "direction": "up"
+  },
+  "ADA3SUSDT": {
+    "percentage": 0.6754214328717737,
+    "direction": "up"
+  },
+  "BTC4LUSDT": {
+    "percentage": 0.2172898559178823,
+    "direction": "up"
+  },
+  "ANKR3SUSDT": {
+    "percentage": 0.5068195384563313,
+    "direction": "up"
+  },
+  "SRM3LUSDT": {
+    "percentage": 5.2923794293775845,
+    "direction": "down"
+  },
+  "WAVES3SUSDT": {
+    "percentage": 0.5111296912713639,
+    "direction": "up"
+  },
+  "RUNE3SUSDT": {
+    "percentage": 0.6876470297925571,
+    "direction": "up"
+  },
+  "ANC3SUSDT": {
+    "percentage": 0.6933789684881361,
+    "direction": "up"
+  },
+  "ANT3LUSDT": {
+    "percentage": 0.6028600883053188,
+    "direction": "up"
+  },
+  "ONE3SUSDT": {
+    "percentage": 0.15528104874431717,
+    "direction": "down"
+  },
+  "DOT3SUSDT": {
+    "percentage": 1.4885506650212654,
+    "direction": "up"
+  },
+  "UNI3SUSDT": {
+    "percentage": 0.36700648748842213,
+    "direction": "up"
+  },
+  "ZEC3SUSDT": {
+    "percentage": 2.4781583443308928,
+    "direction": "down"
+  },
+  "DGB3SUSDT": {
+    "percentage": 0.5954859261984803,
+    "direction": "up"
+  },
+  "ICP3SUSDT": {
+    "percentage": 0.053928651376704335,
+    "direction": "up"
+  },
+  "COMP3SUSDT": {
+    "percentage": 0.05320799893584709,
+    "direction": "down"
+  },
+  "RAY3SUSDT": {
+    "percentage": 2.5371709180193753,
+    "direction": "up"
+  },
+  "VINU3SUSDT": {
+    "percentage": 5.7690938856858045,
+    "direction": "up"
+  },
+  "DUSK3SUSDT": {
+    "percentage": 1.1169195117350603,
+    "direction": "down"
+  },
+  "TON3SUSDT": {
+    "percentage": 0.9699230104076558,
+    "direction": "up"
+  },
+  "LAZIO3SUSDT": {
+    "percentage": 0.9710408018216545,
+    "direction": "up"
+  },
+  "MASK3LUSDT": {
+    "percentage": 0.9721563579703241,
+    "direction": "down"
+  },
+  "STEPN3LUSDT": {
+    "percentage": 0.47891556983158795,
+    "direction": "down"
+  },
+  "PERP3LUSDT": {
+    "percentage": 0.6060770560876594,
+    "direction": "down"
+  },
+  "SHIB5SUSDT": {
+    "percentage": 0.3230179584595537,
+    "direction": "down"
+  },
+  "LTC3SUSDT": {
+    "percentage": 1.4080308115011333,
+    "direction": "up"
+  },
+  "FITFI3LUSDT": {
+    "percentage": 0.922632618939043,
+    "direction": "down"
+  },
+  "1INCH3SUSDT": {
+    "percentage": 0.6110336618811159,
+    "direction": "up"
+  },
+  "CREAM3SUSDT": {
+    "percentage": 0.25030104544873416,
+    "direction": "down"
+  },
+  "CVC3LUSDT": {
+    "percentage": 2.3078132109029226,
+    "direction": "up"
+  },
+  "THETA3SUSDT": {
+    "percentage": 0.5109568404541086,
+    "direction": "down"
+  },
+  "OCEAN3LUSDT": {
+    "percentage": 2.489190149271997,
+    "direction": "up"
+  },
+  "TOMO3LUSDT": {
+    "percentage": 0.3578899902108175,
+    "direction": "down"
+  },
+  "RSR3SUSDT": {
+    "percentage": 0.3762025573294389,
+    "direction": "up"
+  },
+  "OGN3SUSDT": {
+    "percentage": 0.7599798587772367,
+    "direction": "up"
+  },
+  "MAGIC3LUSDT": {
+    "percentage": 1.8700788659866268,
+    "direction": "up"
+  },
+  "GMX3SUSDT": {
+    "percentage": 3.01420255807315,
+    "direction": "down"
+  },
+  "DASH3SUSDT": {
+    "percentage": 0.6879865694487755,
+    "direction": "down"
+  },
+  "BEL3LUSDT": {
+    "percentage": 0.2361802063842537,
+    "direction": "down"
+  },
+  "IOST3SUSDT": {
+    "percentage": 0.6968040357558014,
+    "direction": "up"
+  },
+  "TRX5LUSDT": {
+    "percentage": 0.4035037676198703,
+    "direction": "down"
+  },
+  "AUDIO3LUSDT": {
+    "percentage": 1.4388346036737076,
+    "direction": "down"
+  },
+  "IMX3LUSDT": {
+    "percentage": 0.909116563897783,
+    "direction": "down"
+  },
+  "DEGO3LUSDT": {
+    "percentage": 3.3281874836225267,
+    "direction": "down"
+  },
+  "AR3SUSDT": {
+    "percentage": 1.1360868682768372,
+    "direction": "up"
+  },
+  "GLMR3LUSDT": {
+    "percentage": 0.7210107063513487,
+    "direction": "down"
+  },
+  "CEEK3LUSDT": {
+    "percentage": 0.6101417825481824,
+    "direction": "down"
+  },
+  "ETH2LUSDT": {
+    "percentage": 0.1961200981043195,
+    "direction": "up"
+  },
+  "QTUM3SUSDT": {
+    "percentage": 0.6237013788995046,
+    "direction": "up"
+  },
+  "MAGIC3SUSDT": {
+    "percentage": 1.9881197720935984,
+    "direction": "down"
+  },
+  "YFI3LUSDT": {
+    "percentage": 0.16736961906674716,
+    "direction": "up"
+  },
+  "JASMY3SUSDT": {
+    "percentage": 0.05249650023330957,
+    "direction": "down"
+  },
+  "KNC3LUSDT": {
+    "percentage": 0.32082523029884236,
+    "direction": "up"
+  },
+  "MANA3SUSDT": {
+    "percentage": 1.3070220399795007,
+    "direction": "up"
+  },
+  "BCH4LUSDT": {
+    "percentage": 1.0877306628847008,
+    "direction": "up"
+  },
+  "DOT2LUSDT": {
+    "percentage": 0.948491958001411,
+    "direction": "down"
+  },
+  "DC3SUSDT": {
+    "percentage": 2.176929551193102,
+    "direction": "up"
+  }
+}
