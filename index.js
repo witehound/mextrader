@@ -1,10 +1,12 @@
 const { getTime } = require("./utils/timer.js");
-const { getAllEtfs } = require("./utils/api.js");
-const { getPriceFile, updatePriceFile } = require("./utils/writeData.js");
+const { updatePriceFile } = require("./utils/writeData.js");
+const { reblanceUtcTime } = require("./constants.js");
 
 const main = async () => {
-  const data = getPriceFile();
-  await updatePriceFile(data, {});
+  const time = getTime();
+  if (time === reblanceUtcTime) {
+    updatePriceFile();
+  }
 };
 
 main();

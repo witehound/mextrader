@@ -4,7 +4,7 @@ require("dotenv").config();
 
 const getAllEtfs = async () => {
   const data = await axios.get(process.env.API_URL);
-  console.log(data);
+  return data;
 };
 
 module.exports = {
